@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="850px" viewBox="0 0 1280 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Show Issues</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="93" height="36" rx="2"></rect>
+        <filter x="-6.5%" y="-11.1%" width="112.9%" height="133.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Cx23-Storyboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Show-Issues">
+            <g id="three-lines-with-avatar-and-icon" transform="translate(61.000000, 120.000000)">
+                <g id="list" transform="translate(229.000000, 67.000000)" fill="#000000">
+                    <g id="row">
+                        <text id="Dr.-Gundry-disagrees" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.87">
+                            <tspan x="42.9916805" y="15">Dr. Gundry disagrees with the amounts</tspan>
+                        </text>
+                        <text id="3" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87">
+                            <tspan x="623" y="22">3</tspan>
+                        </text>
+                        <text id="43" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87">
+                            <tspan x="0" y="22">43</tspan>
+                        </text>
+                        <g id="Material/Icons-black/favorite" transform="translate(16.000000, 4.000000)">
+                            <path d="M12,8 C11.33,6.268 9.453,5 7.5,5 C4.957,5 3,6.932 3,9.5 C3,13.029 6.793,15.758 12,21 C17.207,15.758 21,13.029 21,9.5 C21,6.932 19.043,5 16.5,5 C14.545,5 12.67,6.268 12,8 Z" id="Shape"></path>
+                        </g>
+                        <g id="Material/Icons-black/forum" transform="translate(638.000000, 8.000000)">
+                            <path d="M21.001,6 L19,6 L19,15 L5.999,15 L5.999,17 C5.999,17.552 6.449,18 7,18 L17.999,18 L22,22 L22,7 C22,6.447 21.552,6 21.001,6 M16.001,1.999 L3,1.999 C2.448,1.999 2,2.447 2,3 L2,17 L5.999,13 L16.001,13 C16.552,13 17,12.552 17,11.999 L17,3 C17,2.447 16.552,1.999 16.001,1.999" id="Fill-6"></path>
+                        </g>
+                        <text id="Jamie-Sol" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.543846241">
+                            <tspan x="42.9916805" y="37">Jamie Sol</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="button" transform="translate(799.000000, 134.000000)">
+                    <g id="button-bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#4680DA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="Create" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.5" fill="#FFFFFF">
+                        <tspan x="23.9897461" y="25">Create</tspan>
+                    </text>
+                </g>
+                <text id="Leigh-Silverstein-/" font-family="Helvetica" font-size="16" font-weight="normal" fill-opacity="0.38" fill="#000000">
+                    <tspan x="0" y="15">Leigh Silverstein / Folate / Issues</tspan>
+                </text>
+            </g>
+            <text id="Click-Here" font-family="Helvetica" font-size="16" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                <tspan x="747" y="205">Click Here</tspan>
+            </text>
+            <path d="M737.5,199.5 L640.5,199.5" id="Line" stroke="#FF0000" stroke-width="7" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M640.5,199.5 L651.3,202.5 L651.3,196.5 L640.5,199.5 Z" stroke="#FF0000" stroke-width="7" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="850px" viewBox="0 0 1280 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Show  Theory Disease Intervention Biomarker</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.0214445%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="80%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.06" offset="20%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-3" cx="30" cy="12" r="10"></circle>
+        <filter x="-15.0%" y="-10.0%" width="130.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237601902 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="122" height="36" rx="2"></rect>
+        <filter x="-4.9%" y="-11.1%" width="109.8%" height="133.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="547" height="596"></rect>
+    </defs>
+    <g id="Cx23-Storyboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Show--Theory-Disease-Intervention-Biomarker">
+            <g id="star" transform="translate(394.000000, 179.000000)">
+                <g>
+                    <text id="43" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                        <tspan x="62" y="16">43</tspan>
+                    </text>
+                    <g id="Material/Icons-black/favorite" transform="translate(43.000000, 2.000000)" fill="#000000">
+                        <path d="M9,4.75 C8.33,3.018 6.453,1.75 4.5,1.75 C1.957,1.75 0,3.682 0,6.25 C0,9.779 3.793,12.508 9,17.75 C14.207,12.508 18,9.779 18,6.25 C18,3.682 16.043,1.75 13.5,1.75 C11.545,1.75 9.67,3.018 9,4.75 Z" id="Shape"></path>
+                    </g>
+                    <g id="Material/Light/Switch-on">
+                        <path d="M37,12 C37,15.9 33.9,19 30,19 L10,19 C6.1,19 3,15.9 3,12 L3,12 C3,8.1 6.1,5 10,5 L30,5 C33.9,5 37,8.1 37,12 L37,12 L37,12 Z" id="track" fill="#009688" fill-rule="evenodd" opacity="0.5"></path>
+                        <g id="knob">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#009688" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <circle stroke="url(#linearGradient-1)" stroke-width="0.5" cx="30" cy="12" r="9.75"></circle>
+                            <circle stroke="url(#linearGradient-2)" stroke-width="0.5" cx="30" cy="12" r="9.75"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Issues" transform="translate(61.000000, 698.000000)">
+                <g>
+                    <g id="button-bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#C57C08" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                    <text id="ISSUES-(1)" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.5" fill="#FFFFFF">
+                        <tspan x="25.8242188" y="23">ISSUES (1)</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="references" transform="translate(62.000000, 594.000000)">
+                <rect id="bounds" x="32" y="0" width="325" height="48"></rect>
+                <path d="M1.99848485,40.5 L330.001515,40.5" id="line" stroke-opacity="0.12" stroke="#000000"></path>
+                <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
+                    <tspan x="2" y="28">References</tspan>
+                </text>
+                <g id="chip" transform="translate(0.000000, 48.000000)">
+                    <rect id="chip-bg" fill-opacity="0.200000003" fill="#999999" x="0" y="0" width="187" height="27" rx="13.5"></rect>
+                    <text id="http://reference.com" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.543846241" fill="#000000">
+                        <tspan x="34" y="18">http://reference.com</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="description" transform="translate(40.000000, 237.000000)">
+                <g id="text-field">
+                    <rect id="bounds" x="0.0259061222" y="7" width="469.44875" height="265"></rect>
+                    <text id="Lorem-ipsum-dolor-si" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.87" fill="#000000">
+                        <tspan x="20.0259061" y="47">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam </tspan>
+                        <tspan x="20.0259061" y="71">gravida venenatis accumsan. In mi massa, tempus</tspan>
+                        <tspan x="20.0259061" y="95">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam </tspan>
+                        <tspan x="20.0259061" y="119">gravida venenatis accumsan. In mi massa, tempus</tspan>
+                        <tspan x="20.0259061" y="143">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam </tspan>
+                        <tspan x="20.0259061" y="167">gravida venenatis accumsan. In mi massa, tempus</tspan>
+                        <tspan x="20.0259061" y="191">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam </tspan>
+                        <tspan x="20.0259061" y="215">gravida venenatis accumsan. In mi massa, tempus</tspan>
+                        <tspan x="20.0259061" y="239">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam </tspan>
+                        <tspan x="20.0259061" y="263">gravida venenatis accumsan. In mi massa, tempus</tspan>
+                    </text>
+                    <text id="Description" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="16" fill-opacity="0.38" fill="#000000">
+                        <tspan x="20" y="11">Description</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="name" transform="translate(61.000000, 164.000000)">
+                <rect id="bounds" x="0" y="0" width="325" height="48"></rect>
+                <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#0C0C0C">
+                    <tspan x="0" y="28">Folate</tspan>
+                </text>
+            </g>
+            <g id="theories" transform="translate(687.000000, 117.000000)">
+                <g id="Group">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="Flow-Chart" mask="url(#mask-8)">
+                        <g transform="translate(32.000000, 86.000000)">
+                            <g id="Inflammation" transform="translate(572.000000, 436.000000)">
+                                <circle id="Oval-2" fill="#B8783B" cx="68.5" cy="21.5" r="21.5"></circle>
+                                <text font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                    <tspan x="0.3046875" y="72">Inflammation</tspan>
+                                </text>
+                            </g>
+                            <g id="AD" transform="translate(677.000000, 466.000000)">
+                                <text id="Cx23" font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                    <tspan x="255.486328" y="124">Cx23</tspan>
+                                </text>
+                                <circle id="Oval-2" fill="#B6529C" cx="280.5" cy="66.5" r="21.5"></circle>
+                                <path d="M239.5,57.5 L0.5,0.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                            </g>
+                            <g id="AD" transform="translate(683.000000, 361.000000)">
+                                <text id="Alzheimer’s-Disease" font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                    <tspan x="185.25" y="79">Alzheimer’s</tspan>
+                                    <tspan x="204.146484" y="108">Disease</tspan>
+                                </text>
+                                <circle id="Oval-2" fill="#1F2596" cx="244.5" cy="21.5" r="21.5"></circle>
+                                <path d="M203.5,27.5 L0.5,90.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                            </g>
+                            <g id="Cardio" transform="translate(648.000000, 270.000000)">
+                                <text id="Cardiovascular-Disea" font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                    <tspan x="111.466797" y="79">Cardiovascular</tspan>
+                                    <tspan x="148.146484" y="108">Disease</tspan>
+                                </text>
+                                <circle id="Oval-2" fill="#1F2596" cx="188.5" cy="21.5" r="21.5"></circle>
+                                <path d="M159.5,32.5 L0.5,156.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                            </g>
+                            <g id="Homocysteine" transform="translate(373.000000, 327.000000)">
+                                <circle id="Oval-2" fill="#3B67B8" cx="76.5" cy="21.5" r="21.5"></circle>
+                                <path d="M239.5,112.5 L112.5,40.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <text font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                    <tspan x="0.46875" y="71">Homocysteine</tspan>
+                                </text>
+                            </g>
+                            <g id="Level-3" transform="translate(193.000000, 111.000000)">
+                                <g id="B6" transform="translate(0.000000, 238.000000)">
+                                    <circle id="Oval-2" fill="#A29456" cx="21.5" cy="79.5" r="21.5"></circle>
+                                    <text font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                        <tspan x="6.82226562" y="135">B6</tspan>
+                                    </text>
+                                    <path d="M214.5,0.5 L56.5,71.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                </g>
+                                <g id="B12" transform="translate(175.000000, 23.000000)">
+                                    <circle id="Oval-2" fill="#A29456" cx="21.5" cy="21.5" r="21.5"></circle>
+                                    <text font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                        <tspan x="0.1484375" y="77">B12</tspan>
+                                    </text>
+                                    <path d="M67.5,174.5 L37.5,42.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                </g>
+                                <g id="Betaine" transform="translate(263.000000, 0.000000)">
+                                    <circle id="Oval-2" fill="#A29456" cx="60.5" cy="21.5" r="21.5"></circle>
+                                    <text font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                        <tspan x="21.8007812" y="78">Betaine</tspan>
+                                    </text>
+                                    <path d="M0.5,201.5 L58.5,52.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                </g>
+                                <g id="B2" transform="translate(290.000000, 62.000000)">
+                                    <circle id="Oval-2" fill="#A29456" cx="133.5" cy="21.5" r="21.5"></circle>
+                                    <text font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                        <tspan x="118.822266" y="76">B2</tspan>
+                                    </text>
+                                    <path d="M0.5,155.5 L105.5,48.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                </g>
+                                <g id="Magnesium" transform="translate(292.000000, 124.000000)">
+                                    <circle id="Oval-2" fill="#A29456" cx="215.5" cy="21.5" r="21.5"></circle>
+                                    <text font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                        <tspan x="153.472656" y="76">Magnesium</tspan>
+                                    </text>
+                                    <path d="M0.5,108.5 L187.5,48.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                </g>
+                                <g id="Folate" transform="translate(18.000000, 106.000000)">
+                                    <path d="M196.5,112.5 L69.5,40.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                    <circle id="Oval-2" fill="#A29456" cx="33.5" cy="21.5" r="21.5"></circle>
+                                    <text font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                        <tspan x="0.1484375" y="77">Folate</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Folic-Acid" transform="translate(0.000000, 99.000000)">
+                                <path d="M215.5,112.5 L88.5,40.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <circle id="Oval-2" fill="#C66C6C" cx="52.5" cy="21.5" r="21.5"></circle>
+                                <text font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                    <tspan x="0.142578125" y="77">Folic Acid</tspan>
+                                </text>
+                            </g>
+                            <g id="Folinic-acid" transform="translate(98.000000, 18.000000)">
+                                <path d="M140.5,183.5 L82.5,55.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <circle id="Oval-2" fill="#6CC67C" cx="62.5" cy="21.5" r="21.5"></circle>
+                                <text id="Folinic-Acid" font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                    <tspan x="0.802734375" y="77">Folinic Acid</tspan>
+                                </text>
+                            </g>
+                            <g id="-5-MTHF" transform="translate(233.000000, 0.000000)">
+                                <path d="M26.5,204.5 L42.5,64.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <circle id="Oval-2" fill="#6C97C6" cx="45.5" cy="21.5" r="21.5"></circle>
+                                <text id="5-MTHF" font-family="Helvetica" font-size="24" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                                    <tspan x="0.5078125" y="77">5-MTHF</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <circle id="Oval" stroke="#F5C8C8" stroke-width="4" mask="url(#mask-8)" cx="276.5" cy="325.5" r="22.5"></circle>
+                </g>
+            </g>
+            <g id="theories-search" transform="translate(63.000000, 521.000000)">
+                <rect id="bounds" x="32" y="0" width="325" height="48"></rect>
+                <path d="M0.998484848,40.5 L329.001515,40.5" id="line" stroke-opacity="0.12" stroke="#000000"></path>
+                <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
+                    <tspan x="1" y="28">Theories</tspan>
+                </text>
+                <g id="chip" transform="translate(0.000000, 48.000000)">
+                    <rect id="chip-bg" fill-opacity="0.200000003" fill="#999999" x="0" y="0" width="187" height="27" rx="13.5"></rect>
+                    <text id="Homocysteine" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.543846241" fill="#000000">
+                        <tspan x="55" y="19">Homocysteine</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Theory" font-family="Helvetica" font-size="16" font-weight="normal" fill-opacity="0.38" fill="#000000">
+                <tspan x="61" y="135">Theory</tspan>
+            </text>
+            <text id="Click-Here" font-family="Helvetica" font-size="16" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                <tspan x="303" y="728">Click Here</tspan>
+            </text>
+            <path d="M293.5,722.5 L196.5,722.5" id="Line" stroke="#FF0000" stroke-width="7" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M196.5,722.5 L207.3,725.5 L207.3,719.5 L196.5,722.5 Z" stroke="#FF0000" stroke-width="7" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
