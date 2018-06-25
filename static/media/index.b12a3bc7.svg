@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="850px" viewBox="0 0 1280 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Create Trait</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="122" height="36" rx="2"></rect>
+        <filter x="-4.9%" y="-11.1%" width="109.8%" height="133.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="547" height="404"></rect>
+    </defs>
+    <g id="Cx23-Storyboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Create-Trait">
+            <g id="CreateTemplate" transform="translate(1.000000, 0.000000)">
+                <g id="Operator" transform="translate(59.000000, 529.000000)">
+                    <rect id="bounds" x="1" y="0" width="95" height="48"></rect>
+                    <path d="M0.998484848,40.5 L71.5,40.5" id="line" stroke-opacity="0.12" stroke="#000000" stroke-width="1"></path>
+                    <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
+                        <tspan x="1" y="28">Type</tspan>
+                    </text>
+                    <g id="Material/Icons-black/arrow-drop-down" opacity="0.289515399" transform="translate(42.000000, 10.000000)" fill-rule="evenodd" fill="#000000">
+                        <polygon id="Shape" points="7 10 12 15 17 10"></polygon>
+                    </g>
+                </g>
+                <g id="TextInput" transform="translate(56.000000, 155.000000)" stroke-width="1" fill-rule="evenodd">
+                    <g id="name">
+                        <rect id="bounds" x="1" y="0" width="325" height="48"></rect>
+                        <path d="M0.998484848,40.5 L329.001515,40.5" id="line" stroke-opacity="0.12" stroke="#000000"></path>
+                        <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
+                            <tspan x="1" y="28">Name</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="TextArea" transform="translate(39.000000, 230.000000)" stroke-width="1" fill-rule="evenodd">
+                    <g id="text-field">
+                        <rect id="bounds" x="0.0259061222" y="7" width="484.878286" height="284"></rect>
+                        <path d="M24.5264377,290 L333.904192,290" id="line" stroke="#009688" stroke-width="2"></path>
+                        <text id="Lorem-ipsum-dolor-si" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.87" fill="#000000">
+                            <tspan x="20.0259061" y="47">...</tspan>
+                        </text>
+                        <text id="Description" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="16" fill-opacity="0.38" fill="#000000">
+                            <tspan x="20" y="11">Notes</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Issues" transform="translate(62.000000, 698.000000)">
+                    <g id="ButtonBGPrimary">
+                        <g id="button-bg">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#4E61F4" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                    <text id="ISSUES-(1)" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.5" fill="#FFFFFF">
+                        <tspan x="38.4897461" y="23">Create</tspan>
+                    </text>
+                </g>
+                <text id="Theory" font-family="Helvetica" font-size="16" font-weight="normal" fill-opacity="0.38" fill="#000000">
+                    <tspan x="53" y="135">Create Trait</tspan>
+                </text>
+                <g id="references" transform="translate(52.000000, 580.000000)" stroke-width="1" fill-rule="evenodd">
+                    <g>
+                        <rect id="bounds" x="35" y="0" width="325" height="48"></rect>
+                        <path d="M34.9984848,40.5 L363.001515,40.5" id="line" stroke-opacity="0.12" stroke="#000000"></path>
+                        <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
+                            <tspan x="35" y="28">References</tspan>
+                        </text>
+                        <g id="Material/Icons-black/add" transform="translate(0.000000, 11.000000)" fill="#000000">
+                            <polygon id="Shape" points="11 5 11 11 5 11 5 13 11 13 11 19 13 19 13 13 19 13 19 11 13 11 13 5"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Flow" transform="translate(687.000000, 117.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="Flow-Chart" mask="url(#mask-4)">
+                    <g transform="translate(-752.000000, -733.000000)">
+                        <g id="Diseases" stroke-width="1" fill-rule="evenodd" transform="translate(764.000000, 329.600000)">
+                            <g id="AD" transform="translate(94.400000, 72.000000)">
+                                <ellipse id="Oval-2" fill="#6F73D8" cx="90.7764706" cy="37.1211679" rx="17.8588235" ry="17.9211679"></ellipse>
+                                <path d="M52.7647059,52.2248175 L0.270588235,60.9138686" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(25.600000, -2.121853)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="3.86083838" y="13.7021378">Alzheimer's Disease</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Cardio">
+                                <ellipse id="Oval-2" fill="#6F73D8" cx="63.9052023" cy="31.3405405" rx="11.6323699" ry="11.6216216"></ellipse>
+                                <path d="M54.8,60.4 L45.0705202,95.7297297" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(0.000000, -2.121853)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="20.3662095" y="13.7021378">Cardiovascular </tspan>
+                                        <tspan x="41.7626938" y="30.7021378">Disease</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Interventions" stroke-width="1" fill-rule="evenodd" transform="translate(244.800000, 101.600000)">
+                            <g id="Folic-Acid" transform="translate(0.000000, 149.600000)">
+                                <path d="M163.6,50 L81.4555556,23.3911504" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <ellipse id="Oval-2" fill="#C66C6C" cx="43.5888889" cy="11.5681416" rx="11.6259259" ry="11.5681416"></ellipse>
+                                <g id="flowchartText" transform="translate(0.000000, 27.478147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="15.0765936" y="13.7021378">Folic Acid</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Folinic-acid" transform="translate(49.600000, 41.600000)">
+                                <path d="M114.8,116.4 L72.9361702,49.1217391" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <ellipse id="Oval-2" fill="#C66C6C" cx="44.4425532" cy="11.5913043" rx="11.7106383" ry="11.5913043"></ellipse>
+                                <g id="flowchartText" transform="translate(0.000000, 23.478147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="9.62835139" y="13.7021378">Folinic Acid</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="-5-MTHF" transform="translate(180.800000, 0.000000)">
+                                <path d="M33.9595506,147.728839 L42.588764,71.8037453" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <ellipse id="Oval-2" fill="#C66C6C" cx="48.5213483" cy="41.97603" rx="18.0674157" ry="18.1677903"></ellipse>
+                                <g id="flowchartText" transform="translate(0.000000, -2.121853)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="19.3729803" y="13.7021378">5-MTHF</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Intervention-Amounts" stroke-width="1" fill-rule="evenodd" transform="translate(136.800000, 46.400000)">
+                            <g id="Default" transform="translate(0.000000, 208.000000)">
+                                <path d="M85.12,9.7060241 L111.6,9.7060241" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <ellipse id="Oval-2" fill="#6C97C6" cx="46.288" cy="11.6048193" rx="11.696" ry="11.6048193"></ellipse>
+                                <g id="flowchartText" transform="translate(0.000000, 22.678147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="18.1835272" y="13.7021378">1 x 25g / </tspan>
+                                        <tspan x="28.6937811" y="30.7021378">week</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Default" transform="translate(359.200000, 16.800000)">
+                                <path d="M0,50.2554217 L25.6349206,40.2698795" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <ellipse id="Oval-2" fill="#6C97C6" cx="58.1619048" cy="11.6048193" rx="11.6031746" ry="11.6048193"></ellipse>
+                                <g id="flowchartText" transform="translate(12.800000, 25.878147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="12.3524725" y="13.7021378">2 x 50mg / </tspan>
+                                        <tspan x="33.7489569" y="30.7021378">day</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Default" transform="translate(46.400000, 44.800000)">
+                                <path d="M88.2711409,32.2698795 L114.300671,45.7638554" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <ellipse id="Oval-2" fill="#6C97C6" cx="45.4201342" cy="11.6048193" rx="11.6590604" ry="11.6048193"></ellipse>
+                                <g id="flowchartText" transform="translate(0.000000, 25.878147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="18.1835272" y="13.7021378">4 x 10g / </tspan>
+                                        <tspan x="25.5800115" y="30.7021378">month</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="C6777T" transform="translate(154.400000, 0.000000)">
+                                <circle id="Oval-2" fill="#6C97C6" cx="39.6" cy="11.6" r="11.6"></circle>
+                                <path d="M45.8588235,78 L45.8588235,54.675" id="Line-3" stroke="#979797" stroke-linecap="square"></path>
+                                <path id="Line-3-decoration-1" d="M45.8588235,54.675 L42.8588235,65.475 L48.8588235,65.475 L45.8588235,54.675 Z" stroke="#979797" stroke-linecap="square"></path>
+                                <path d="M69.872,22.6727273 L139.6,70" id="Line-4" stroke="#979797" stroke-linecap="square"></path>
+                                <path id="Line-4-decoration-1" d="M139.6,70 L132.34876,61.452514 L128.979174,66.4169768 L139.6,70 Z" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(0.000000, 28.300000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="15.8490545" y="13.7021378">C677T++</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Biomarkers" stroke-width="1" fill-rule="evenodd" transform="translate(577.600000, 371.200000)">
+                            <g id="Homocysteine">
+                                <ellipse id="Oval-2" fill="#7E9FDB" cx="43.2470588" cy="30.8193103" rx="30.8470588" ry="30.8193103"></ellipse>
+                                <path d="M135.6,85.2 L106.670588,69.9696552" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(0.000000, 62.678147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="4.57659358" y="13.7021378">Homocystein</tspan>
+                                        <tspan x="41.1420233" y="30.7021378">e</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Cortisol" transform="translate(67.200000, 351.200000)">
+                                <ellipse id="Oval-2" fill="#7E9FDB" cx="38.0393064" cy="31.0204082" rx="30.8393064" ry="31.0204082"></ellipse>
+                                <path d="M123.6,31.8367347 L88.2289017,31.8367347" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(0.000000, 68.278147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="12.8009226" y="13.7021378">Cortisol</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Level-3" stroke-width="1" fill-rule="evenodd" transform="translate(410.400000, 186.400000)">
+                            <g id="B6" transform="translate(0.000000, 229.600000)">
+                                <ellipse id="Oval-2" fill="#A29456" cx="36.8307155" cy="32.2232779" rx="19.2307155" ry="19.2256532"></ellipse>
+                                <path d="M113.211867,0.270783848 L74.208726,14.8931116" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(0.565445, 55.042993)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="27.9664499" y="13.7021378">B6</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="B12" transform="translate(92.291798, 12.714489)">
+                                <ellipse id="Oval-2" fill="#A29456" cx="36.4467714" cy="28.4817102" rx="11.6467714" ry="11.6437055"></ellipse>
+                                <path d="M80.9082024,137.285511 L52.9082024,70.8855107" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(0.273647, -1.367458)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="24.0733835" y="13.7021378">B12</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Betaine" transform="translate(160.087958, 0.000000)">
+                                <ellipse id="Oval-2" fill="#A29456" cx="37.4478185" cy="28.7401425" rx="11.6467714" ry="11.6437055"></ellipse>
+                                <polyline id="Line-2" stroke="#979797" stroke-linecap="square" transform="translate(42.019197, 102.000000) scale(-1, 1) translate(-42.019197, -102.000000) " points="39.2 138.4 41.9578478 102.792112 44.8383944 65.6"></polyline>
+                                <g id="flowchartText" transform="translate(0.477487, -1.452969)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="12.7872507" y="13.7021378">Betaine</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="B2" transform="translate(215.923211, 32.235629)">
+                                <ellipse id="Oval-2" fill="#A29456" cx="56.4467714" cy="20.4437055" rx="11.6467714" ry="11.6437055"></ellipse>
+                                <g id="flowchartText" transform="translate(0.642234, -1.688599)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="27.9664499" y="13.7021378">B2</tspan>
+                                    </text>
+                                </g>
+                                <path d="M14.0767888,114.564371 L38.0767888,59.3643705" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                            </g>
+                            <g id="Magnesium" transform="translate(264.800000, 79.200000)">
+                                <ellipse id="Oval-2" fill="#A29456" cx="76.9605585" cy="30.3154394" rx="11.6467714" ry="11.6437055"></ellipse>
+                                <path d="M0.270855148,93.207601 L45.2,58" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(40.800000, -2.121853)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="6.17689912" y="13.7021378">Magnesiu</tspan>
+                                        <tspan x="30.6974069" y="30.7021378">m</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Default" transform="translate(75.200000, 262.400000)">
+                                <path d="M57.8708551,31.607601 L89.0598746,0.418581537" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <ellipse id="Oval-2" fill="#55C65F" cx="36.1605585" cy="51.1154394" rx="11.6467714" ry="11.6437055"></ellipse>
+                                <g id="flowchartText" transform="translate(0.000000, 62.678147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="22.5182077" y="13.7021378">4-10 </tspan>
+                                        <tspan x="9.690571" y="30.7021378">mmol / L</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Default" transform="translate(121.600000, 285.600000)">
+                                <path d="M72.4,42.0875 L78.55625,0.003125" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <ellipse id="Oval-2" fill="#B6E670" cx="69.1829399" cy="75.335867" rx="19.0691528" ry="19.064133"></ellipse>
+                                <g id="flowchartText" transform="translate(0.000000, 101.078147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="6.85565668" y="13.7021378">Homocysteine Blood </tspan>
+                                        <tspan x="58.2174731" y="30.7021378">Test</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Folate" transform="translate(31.200000, 100.000000)">
+                                <path d="M90.1947644,67.9667458 L56.0670157,48.4703088" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <ellipse id="Oval-2" fill="#A29456" cx="27.35637" cy="27.3491686" rx="27.35637" ry="27.3491686"></ellipse>
+                                <g id="flowchartText" transform="translate(8.000000, 56.100000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="3.45280392" y="11.3586698">Folat</tspan>
+                                        <tspan x="15.1217492" y="28.3586698">e</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="HomocysteineBloodTestRing" transform="translate(580.000000, 525.600000)" stroke-width="3">
+                            <circle id="Oval" stroke="#FF6363" cx="21.5" cy="21.5" r="21.5"></circle>
+                        </g>
+                        <g id="Level-1-Theory" stroke-width="1" fill-rule="evenodd" transform="translate(740.000000, 347.200000)">
+                            <g id="Inflammation" transform="translate(0.000000, 102.400000)">
+                                <circle id="Oval-2" fill="#FBBB7E" cx="50" cy="50" r="50"></circle>
+                                <g id="flowchartText" transform="translate(13.600000, 108.278147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="4.24232881" y="13.7021378">Inflammati</tspan>
+                                        <tspan x="28.7423288" y="30.7021378">on</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Anxiety" transform="translate(40.000000, 360.800000)">
+                                <ellipse id="Oval-2" fill="#FBBB7E" cx="57.3293532" cy="39.5323077" rx="39.5144279" ry="39.5323077"></ellipse>
+                                <g id="flowchartText" transform="translate(0.000000, 82.678147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="2.18535971" y="13.7021378">Anxiety and Stress</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Digestion" transform="translate(364.800000, 0.000000)">
+                                <ellipse id="Oval-2" fill="#FBBB7E" cx="39.6" cy="39.5323077" rx="39.6" ry="39.5323077"></ellipse>
+                                <g id="flowchartText" transform="translate(4.000000, 82.678147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="7.34584444" y="13.7021378">Digestion</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Vitamin-D" transform="translate(494.400000, 208.000000)">
+                                <ellipse id="Oval-2" fill="#FBBB7E" cx="34.8" cy="26.309589" rx="26.2361905" ry="26.309589"></ellipse>
+                                <g id="flowchartText" transform="translate(0.000000, 57.078147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="6.31019991" y="13.7021378">Vitamin D</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Zinc-Copper" transform="translate(476.800000, 383.200000)">
+                                <ellipse id="Oval-2" fill="#FBBB7E" cx="34.4" cy="26.309589" rx="26.2646154" ry="26.309589"></ellipse>
+                                <g id="flowchartText" transform="translate(0.000000, 60.278147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="23.3043405" y="13.7021378">Zinc </tspan>
+                                        <tspan x="13.5699655" y="30.7021378">Copper</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Theories" stroke-width="1" fill-rule="evenodd" transform="translate(840.800000, 464.800000)">
+                            <g id="flowchartText" transform="translate(94.400000, 133.900000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                <text id="Folate">
+                                    <tspan x="21.1455063" y="13.7021378">Chronic Illness</tspan>
+                                </text>
+                            </g>
+                            <g id="flowchartText" transform="translate(94.400000, 119.500000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                <text id="Folate">
+                                    <tspan x="30.0869126" y="13.7021378">Theories on</tspan>
+                                </text>
+                            </g>
+                            <circle id="Oval-2" stroke="#8186BC" stroke-width="3" cx="162.4" cy="136" r="68.8"></circle>
+                            <path d="M71.7293233,98.9263158 L0.270676692,68.2736842" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                            <path d="M88.4,204.4 L52.272,234.129412" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                            <path d="M238,0.4 L204.272,36.5294118" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                            <path d="M351.727731,130.666667 L287.472269,139.733333" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                            <path d="M322.128205,243.733333 L280.271795,226.666667" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                        </g>
+                        <g id="Traits" stroke-width="1" fill-rule="evenodd" transform="translate(790.400000, 716.000000)">
+                            <g id="flowchartText" transform="translate(184.800000, 170.700000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                <text id="Folate">
+                                    <tspan x="21.1455063" y="13.7021378">Chronic Illness</tspan>
+                                </text>
+                            </g>
+                            <g id="flowchartText" transform="translate(184.800000, 156.300000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                <text id="Folate">
+                                    <tspan x="21.1318345" y="13.7021378">Traits Affecting</tspan>
+                                </text>
+                            </g>
+                            <circle id="Oval-2" stroke="#8186BC" stroke-width="3" cx="252.8" cy="172.8" r="68.8"></circle>
+                            <path d="M245.329323,54.9263158 L236.4,0.4" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                            <g id="ApoE4" transform="translate(0.000000, 188.800000)">
+                                <ellipse id="Oval-2" fill="#C5A417" cx="52.4307155" cy="52.4169136" rx="52.4307155" ry="52.4169136"></ellipse>
+                                <path d="M160.411867,0.270783848 L121.408726,14.8931116" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(15.200000, 111.478147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="15.5113718" y="13.7021378">ApoE4</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="ApoE3" transform="translate(183.200000, 272.000000)">
+                                <ellipse id="Oval-2" fill="#C5A417" cx="36.8" cy="84.7926292" rx="28" ry="27.9926292"></ellipse>
+                                <path d="M50.8,0.4 L43.4708551,38.8931116" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(0.000000, 121.878147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="15.5113718" y="13.7021378">ApoE3</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Age" transform="translate(295.200000, 268.800000)">
+                                <ellipse id="Oval-2" fill="#C5A417" cx="36.8" cy="90.3926292" rx="28" ry="27.9926292"></ellipse>
+                                <path d="M0.4,0.4 L16.2708551,34.8931116" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(1.600000, 123.478147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="24.0733835" y="13.7021378">Age</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="C677T" transform="translate(342.400000, 217.600000)">
+                                <ellipse id="Oval-2" fill="#C5A417" cx="77.6" cy="45.5926292" rx="28" ry="27.9926292"></ellipse>
+                                <path d="M0.4,0.4 L39.6,22" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(42.400000, 78.678147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="15.5182077" y="13.7021378">C677T</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="C677T" transform="translate(353.600000, 141.600000)">
+                                <ellipse id="Oval-2" fill="#C5A417" cx="93.6" cy="27.9926292" rx="28" ry="27.9926292"></ellipse>
+                                <path d="M0.15,19.6 L53.2,19.6" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(32.000000, 61.200000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="10.4616285" y="13.3115598">Type II Diabetes</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="FolateRing" opacity="0.57959692" transform="translate(439.200000, 284.000000)" stroke-width="3">
+                            <circle id="Oval" stroke="#F43939" cx="30" cy="30" r="30"></circle>
+                        </g>
+                        <g id="FolicAcidRing" transform="translate(274.400000, 248.800000)" stroke-width="3">
+                            <circle id="Oval" stroke="#F98D8D" cx="14" cy="14" r="14"></circle>
+                        </g>
+                        <g id="CX23Ring" transform="translate(928.800000, 524.800000)" stroke-width="3">
+                            <circle id="Oval" stroke="#FF0000" cx="75" cy="75" r="75"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

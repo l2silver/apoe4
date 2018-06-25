@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1280px" height="850px" viewBox="0 0 1280 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>Create Test Amount</title>
+    <title>Show  Theory Disease Intervention Biomarker</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="0" y="0" width="122" height="36" rx="2"></rect>
-        <filter x="-4.9%" y="-11.1%" width="109.8%" height="133.3%" filterUnits="objectBoundingBox" id="filter-2">
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.0214445%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="80%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.06" offset="20%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-3" cx="30" cy="12" r="10"></circle>
+        <filter x="-15.0%" y="-10.0%" width="130.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237601902 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="122" height="36" rx="2"></rect>
+        <filter x="-4.9%" y="-11.1%" width="109.8%" height="133.3%" filterUnits="objectBoundingBox" id="filter-6">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
@@ -17,152 +42,87 @@
                 <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
             </feMerge>
         </filter>
-        <rect id="path-3" x="0" y="0" width="547" height="404"></rect>
+        <rect id="path-7" x="0" y="0" width="547" height="459"></rect>
     </defs>
     <g id="Cx23-Storyboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Create-Test-Amount">
-            <g id="InterventionAmountCreate" transform="translate(-1.000000, 0.000000)">
-                <g id="TextArea" transform="translate(39.000000, 406.000000)" stroke-width="1" fill-rule="evenodd">
-                    <g id="text-field">
-                        <rect id="bounds" x="0.0259061222" y="7" width="484.878286" height="284"></rect>
-                        <path d="M24.5264377,290 L333.904192,290" id="line" stroke="#009688" stroke-width="2"></path>
-                        <text id="Lorem-ipsum-dolor-si" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.87" fill="#000000">
-                            <tspan x="20.0259061" y="47">...</tspan>
-                        </text>
-                        <text id="Description" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="16" fill-opacity="0.38" fill="#000000">
-                            <tspan x="20" y="11">Notes</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="Amount" transform="translate(61.000000, 288.000000)" stroke-width="1" fill-rule="evenodd">
-                    <g>
-                        <rect id="bounds" x="1" y="0" width="325" height="48"></rect>
-                        <path d="M0.998484848,40.5 L329.001515,40.5" id="line" stroke-opacity="0.12" stroke="#000000"></path>
-                        <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
-                            <tspan x="1" y="28">Amount Range (2 - 3 mg)</tspan>
-                        </text>
-                    </g>
-                    <g id="Unit" transform="translate(350.000000, 0.000000)">
-                        <rect id="bounds" x="1" y="0" width="38" height="48"></rect>
-                        <path d="M0.998484848,40.5 L38.5,40.5" id="line" stroke-opacity="0.12" stroke="#000000"></path>
-                        <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
-                            <tspan x="1" y="28">Unit</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="TraitDescription" transform="translate(53.000000, 164.000000)" stroke-width="1" fill-rule="evenodd">
-                    <g id="TraitRow" transform="translate(3.000000, 48.000000)">
-                        <g id="Group">
-                            <g id="Operator" transform="translate(176.000000, 0.000000)">
-                                <rect id="bounds" x="1" y="0" width="95" height="48"></rect>
-                                <path d="M0.998484848,40.5 L71.5,40.5" id="line" stroke-opacity="0.12" stroke="#000000" stroke-width="1"></path>
-                                <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
-                                    <tspan x="1" y="28">Operator</tspan>
-                                </text>
-                                <g id="Material/Icons-black/arrow-drop-down" opacity="0.289515399" transform="translate(71.000000, 10.000000)" fill-rule="evenodd" fill="#000000">
-                                    <polygon id="Shape" points="7 10 12 15 17 10"></polygon>
-                                </g>
-                            </g>
-                            <g id="Quantity" transform="translate(321.000000, 1.000000)">
-                                <g>
-                                    <rect id="bounds" x="1" y="0" width="117" height="48"></rect>
-                                    <path d="M0.998484848,40.5 L80.5,40.5" id="line" stroke-opacity="0.12" stroke="#000000"></path>
-                                    <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
-                                        <tspan x="1" y="28">Quantity</tspan>
-                                    </text>
-                                </g>
-                            </g>
-                            <g id="RemovableChip" transform="translate(0.000000, 17.000000)">
-                                <g id="chip">
-                                    <rect id="chip-bg" fill-opacity="0.200000003" fill="#999999" x="0" y="0" width="125" height="20" rx="10"></rect>
-                                    <text id="ApoE4" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.543846241" fill="#000000">
-                                        <tspan x="40" y="14">ApoE4</tspan>
-                                    </text>
-                                    <g id="Material/Icons-black/close" opacity="0.346240942" transform="translate(10.000000, 3.000000)" fill="#000000">
-                                        <polygon id="Shape" points="13.5 0.9 12.1 -0.5 6.5 5.1 0.9 -0.5 -0.5 0.9 5.1 6.5 -0.5 12.1 0.9 13.5 6.5 7.9 12.1 13.5 13.5 12.1 7.9 6.5"></polygon>
-                                    </g>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                    <g id="AddSearch">
-                        <g id="Traits">
-                            <rect id="bounds" x="35" y="0" width="325" height="48"></rect>
-                            <path d="M35.4984848,40.5 L363.501515,40.5" id="line" stroke-opacity="0.12" stroke="#000000"></path>
-                            <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
-                                <tspan x="35" y="28">Traits</tspan>
-                            </text>
-                            <g id="Material/Icons-black/add" transform="translate(0.000000, 11.000000)" fill="#000000">
-                                <polygon id="Shape" points="11 5 11 11 5 11 5 13 11 13 11 19 13 19 13 13 19 13 19 11 13 11 13 5"></polygon>
-                            </g>
-                        </g>
-                    </g>
-                </g>
-                <g id="Issues" transform="translate(62.000000, 708.000000)">
-                    <g id="ButtonBGPrimary">
-                        <g id="button-bg">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                            <use fill="#4E61F4" fill-rule="evenodd" xlink:href="#path-1"></use>
-                        </g>
-                    </g>
-                    <text id="ISSUES-(1)" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.5" fill="#FFFFFF">
-                        <tspan x="38.4897461" y="23">Create</tspan>
+        <g id="Show--Theory-Disease-Intervention-Biomarker">
+            <g id="star" transform="translate(394.000000, 179.000000)">
+                <g>
+                    <text id="43" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                        <tspan x="62" y="16">43</tspan>
                     </text>
-                </g>
-                <g id="references" transform="translate(731.000000, 544.000000)" stroke-width="1" fill-rule="evenodd">
-                    <g>
-                        <rect id="bounds" x="35" y="0" width="325" height="48"></rect>
-                        <path d="M34.9984848,40.5 L363.001515,40.5" id="line" stroke-opacity="0.12" stroke="#000000"></path>
-                        <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
-                            <tspan x="35" y="28">Tests</tspan>
-                        </text>
-                        <g id="Material/Icons-black/add" transform="translate(0.000000, 11.000000)" fill="#000000">
-                            <polygon id="Shape" points="11 5 11 11 5 11 5 13 11 13 11 19 13 19 13 13 19 13 19 11 13 11 13 5"></polygon>
-                        </g>
-                        <g id="chip" transform="translate(3.000000, 51.000000)">
-                            <rect id="chip-bg" fill-opacity="0.200000003" fill="#999999" x="0" y="0" width="325" height="24" rx="12"></rect>
-                            <text id="http://reference.com" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.543846241" fill="#000000">
-                                <tspan x="69" y="19">Homocysteine Blood Test</tspan>
-                            </text>
-                            <g id="Material/Icons-black/close" transform="translate(20.000000, 5.000000)" fill="#000000">
-                                <polygon id="Shape" points="22 1.9 20.6 0.5 15 6.1 9.4 0.5 8 1.9 13.6 7.5 8 13.1 9.4 14.5 15 8.9 20.6 14.5 22 13.1 16.4 7.5"></polygon>
-                            </g>
+                    <g id="Material/Icons-black/favorite" transform="translate(43.000000, 2.000000)" fill="#000000">
+                        <path d="M9,4.75 C8.33,3.018 6.453,1.75 4.5,1.75 C1.957,1.75 0,3.682 0,6.25 C0,9.779 3.793,12.508 9,17.75 C14.207,12.508 18,9.779 18,6.25 C18,3.682 16.043,1.75 13.5,1.75 C11.545,1.75 9.67,3.018 9,4.75 Z" id="Shape"></path>
+                    </g>
+                    <g id="Material/Light/Switch-on">
+                        <path d="M37,12 C37,15.9 33.9,19 30,19 L10,19 C6.1,19 3,15.9 3,12 L3,12 C3,8.1 6.1,5 10,5 L30,5 C33.9,5 37,8.1 37,12 L37,12 L37,12 Z" id="track" fill="#009688" fill-rule="evenodd" opacity="0.5"></path>
+                        <g id="knob">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#009688" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <circle stroke="url(#linearGradient-1)" stroke-width="0.5" cx="30" cy="12" r="9.75"></circle>
+                            <circle stroke="url(#linearGradient-2)" stroke-width="0.5" cx="30" cy="12" r="9.75"></circle>
                         </g>
                     </g>
                 </g>
-                <g id="references" transform="translate(731.000000, 640.000000)" stroke-width="1" fill-rule="evenodd">
-                    <g>
-                        <rect id="bounds" x="35" y="0" width="325" height="48"></rect>
-                        <path d="M34.9984848,40.5 L363.001515,40.5" id="line" stroke-opacity="0.12" stroke="#000000"></path>
-                        <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
-                            <tspan x="35" y="28">References</tspan>
-                        </text>
-                        <g id="Material/Icons-black/add" transform="translate(0.000000, 11.000000)" fill="#000000">
-                            <polygon id="Shape" points="11 5 11 11 5 11 5 13 11 13 11 19 13 19 13 13 19 13 19 11 13 11 13 5"></polygon>
-                        </g>
-                        <g id="chip" transform="translate(3.000000, 51.000000)">
-                            <rect id="chip-bg" fill-opacity="0.200000003" fill="#999999" x="0" y="0" width="325" height="24" rx="12"></rect>
-                            <text id="http://reference.com" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.543846241" fill="#000000">
-                                <tspan x="69" y="19">http://reference.com</tspan>
-                            </text>
-                            <g id="Material/Icons-black/close" transform="translate(20.000000, 5.000000)" fill="#000000">
-                                <polygon id="Shape" points="22 1.9 20.6 0.5 15 6.1 9.4 0.5 8 1.9 13.6 7.5 8 13.1 9.4 14.5 15 8.9 20.6 14.5 22 13.1 16.4 7.5"></polygon>
-                            </g>
-                        </g>
+            </g>
+            <g id="Issues" transform="translate(61.000000, 698.000000)">
+                <g id="ButtonBGWarning">
+                    <g id="button-bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#C57C08" fill-rule="evenodd" xlink:href="#path-5"></use>
                     </g>
                 </g>
-                <text id="Intervention-Amount" opacity="0.561084692" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
-                    <tspan x="62" y="143">Test Amount</tspan>
+                <text id="ISSUES-(1)" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="22.3242188" y="23">ISSUES (1)</tspan>
                 </text>
             </g>
-            <g id="maskedFlow" transform="translate(702.000000, 96.000000)">
-                <mask id="mask-4" fill="white">
-                    <use xlink:href="#path-3"></use>
+            <g id="references" transform="translate(62.000000, 594.000000)">
+                <rect id="bounds" x="32" y="0" width="325" height="48"></rect>
+                <path d="M1.99848485,40.5 L330.001515,40.5" id="line" stroke-opacity="0.12" stroke="#000000"></path>
+                <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
+                    <tspan x="2" y="28">References</tspan>
+                </text>
+                <g id="chip" transform="translate(0.000000, 48.000000)">
+                    <rect id="chip-bg" fill-opacity="0.200000003" fill="#999999" x="0" y="0" width="187" height="27" rx="13.5"></rect>
+                    <text id="http://reference.com" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.543846241" fill="#000000">
+                        <tspan x="34" y="18">http://reference.com</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="description" transform="translate(40.000000, 237.000000)">
+                <g id="text-field">
+                    <rect id="bounds" x="0.0259061222" y="7" width="469.44875" height="265"></rect>
+                    <text id="Lorem-ipsum-dolor-si" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.87" fill="#000000">
+                        <tspan x="20.0259061" y="47">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam </tspan>
+                        <tspan x="20.0259061" y="71">gravida venenatis accumsan. In mi massa, tempus</tspan>
+                        <tspan x="20.0259061" y="95">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam </tspan>
+                        <tspan x="20.0259061" y="119">gravida venenatis accumsan. In mi massa, tempus</tspan>
+                        <tspan x="20.0259061" y="143">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam </tspan>
+                        <tspan x="20.0259061" y="167">gravida venenatis accumsan. In mi massa, tempus</tspan>
+                        <tspan x="20.0259061" y="191">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam </tspan>
+                        <tspan x="20.0259061" y="215">gravida venenatis accumsan. In mi massa, tempus</tspan>
+                        <tspan x="20.0259061" y="239">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam </tspan>
+                        <tspan x="20.0259061" y="263">gravida venenatis accumsan. In mi massa, tempus</tspan>
+                    </text>
+                    <text id="Description" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="16" fill-opacity="0.38" fill="#000000">
+                        <tspan x="20" y="11">Description</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="name" transform="translate(61.000000, 164.000000)">
+                <rect id="bounds" x="0" y="0" width="325" height="48"></rect>
+                <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#0C0C0C">
+                    <tspan x="0" y="28">Folate</tspan>
+                </text>
+            </g>
+            <g id="Flow-Chart" transform="translate(687.000000, 117.000000)">
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
                 </mask>
                 <g id="Mask"></g>
-                <g id="Flow-Chart" mask="url(#mask-4)">
-                    <g transform="translate(-539.000000, -538.000000)">
-                        <g id="Diseases" stroke-width="1" fill-rule="evenodd" transform="translate(1027.000000, 487.000000)">
+                <g mask="url(#mask-8)">
+                    <g transform="translate(-333.000000, -145.000000)">
+                        <g id="Diseases" stroke-width="1" fill-rule="evenodd" transform="translate(955.000000, 412.000000)">
                             <g id="AD" transform="translate(118.000000, 90.000000)">
                                 <ellipse id="Oval-2" fill="#6F73D8" cx="113.470588" cy="46.4014599" rx="22.3235294" ry="22.4014599"></ellipse>
                                 <path d="M65.9558824,65.2810219 L0.338235294,76.1423358" id="Line" stroke="#979797" stroke-linecap="square"></path>
@@ -182,7 +142,7 @@
                                 </g>
                             </g>
                         </g>
-                        <g id="Interventions" stroke-width="1" fill-rule="evenodd" transform="translate(378.000000, 202.000000)">
+                        <g id="Interventions" stroke-width="1" fill-rule="evenodd" transform="translate(306.000000, 127.000000)">
                             <g id="Folic-Acid" transform="translate(0.000000, 187.000000)">
                                 <path d="M204.5,62.5 L101.819444,29.2389381" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
                                 <ellipse id="Oval-2" fill="#C66C6C" cx="54.4861111" cy="14.460177" rx="14.5324074" ry="14.460177"></ellipse>
@@ -211,13 +171,13 @@
                                 </g>
                             </g>
                         </g>
-                        <g id="Intervention-Amounts" stroke-width="1" fill-rule="evenodd" transform="translate(243.000000, 133.000000)">
+                        <g id="Intervention-Amounts" stroke-width="1" fill-rule="evenodd" transform="translate(171.000000, 58.000000)">
                             <g id="Default" transform="translate(0.000000, 260.000000)">
                                 <path d="M106.4,12.1325301 L139.5,12.1325301" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
                                 <ellipse id="Oval-2" fill="#6C97C6" cx="57.86" cy="14.5060241" rx="14.62" ry="14.5060241"></ellipse>
                                 <g id="flowchartText" transform="translate(0.000000, 31.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
                                     <text id="Folate">
-                                        <tspan x="33.8644679" y="13.7021378">Default</tspan>
+                                        <tspan x="10.9059718" y="13.7021378">1 x 25g / week</tspan>
                                     </text>
                                 </g>
                             </g>
@@ -226,7 +186,7 @@
                                 <ellipse id="Oval-2" fill="#6C97C6" cx="72.702381" cy="14.5060241" rx="14.5039683" ry="14.5060241"></ellipse>
                                 <g id="flowchartText" transform="translate(16.000000, 35.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
                                     <text id="Folate">
-                                        <tspan x="33.8644679" y="13.7021378">Default</tspan>
+                                        <tspan x="10.1300929" y="13.7021378">2 x 50mg / day</tspan>
                                     </text>
                                 </g>
                             </g>
@@ -235,7 +195,7 @@
                                 <ellipse id="Oval-2" fill="#6C97C6" cx="56.7751678" cy="14.5060241" rx="14.5738255" ry="14.5060241"></ellipse>
                                 <g id="flowchartText" transform="translate(0.000000, 35.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
                                     <text id="Folate">
-                                        <tspan x="33.8644679" y="13.7021378">Default</tspan>
+                                        <tspan x="7.79220231" y="13.7021378">4 x 10g / month</tspan>
                                     </text>
                                 </g>
                             </g>
@@ -252,7 +212,7 @@
                                 </g>
                             </g>
                         </g>
-                        <g id="Biomarkers" stroke-width="1" fill-rule="evenodd" transform="translate(794.000000, 539.000000)">
+                        <g id="Biomarkers" stroke-width="1" fill-rule="evenodd" transform="translate(722.000000, 464.000000)">
                             <g id="Homocysteine">
                                 <ellipse id="Oval-2" fill="#7E9FDB" cx="54.0588235" cy="38.5241379" rx="38.5588235" ry="38.5241379"></ellipse>
                                 <path d="M169.5,106.5 L133.338235,87.462069" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
@@ -272,7 +232,7 @@
                                 </g>
                             </g>
                         </g>
-                        <g id="Level-3" stroke-width="1" fill-rule="evenodd" transform="translate(585.000000, 308.000000)">
+                        <g id="Level-3" stroke-width="1" fill-rule="evenodd" transform="translate(513.000000, 233.000000)">
                             <g id="B6" transform="translate(0.000000, 287.000000)">
                                 <ellipse id="Oval-2" fill="#A29456" cx="46.0383944" cy="40.2790974" rx="24.0383944" ry="24.0320665"></ellipse>
                                 <path d="M141.514834,0.33847981 L92.7609075,18.6163895" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
@@ -323,7 +283,7 @@
                                 <ellipse id="Oval-2" fill="#55C65F" cx="45.2006981" cy="63.8942993" rx="14.5584642" ry="14.5546318"></ellipse>
                                 <g id="flowchartText" transform="translate(0.000000, 81.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
                                     <text id="Folate">
-                                        <tspan x="23.3562803" y="13.7021378">Default</tspan>
+                                        <tspan x="2.74251081" y="13.7021378">4-10 mmol / L</tspan>
                                     </text>
                                 </g>
                             </g>
@@ -346,10 +306,10 @@
                                 </g>
                             </g>
                         </g>
-                        <g id="HomocysteineBloodTestRing" transform="translate(797.000000, 732.000000)" stroke-width="3">
+                        <g id="HomocysteineBloodTestRing" transform="translate(725.000000, 657.000000)" stroke-width="3">
                             <circle id="Oval" stroke="#FF6363" cx="27" cy="27" r="27"></circle>
                         </g>
-                        <g id="Level-1-Theory" stroke-width="1" fill-rule="evenodd" transform="translate(997.000000, 509.000000)">
+                        <g id="Level-1-Theory" stroke-width="1" fill-rule="evenodd" transform="translate(925.000000, 434.000000)">
                             <g id="Inflammation" transform="translate(0.000000, 128.000000)">
                                 <circle id="Oval-2" fill="#FBBB7E" cx="62.5" cy="62.5" r="62.5"></circle>
                                 <g id="flowchartText" transform="translate(17.000000, 138.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
@@ -391,22 +351,113 @@
                                 </g>
                             </g>
                         </g>
-                        <g id="CX23" stroke-width="1" fill-rule="evenodd" transform="translate(1123.000000, 656.000000)">
-                            <g id="flowchartText" transform="translate(119.000000, 272.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                        <g id="Theories" stroke-width="1" fill-rule="evenodd" transform="translate(1051.000000, 581.000000)">
+                            <g id="flowchartText" transform="translate(118.000000, 170.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
                                 <text id="Folate">
-                                    <tspan x="67.7241921" y="13.7021378">Cx23</tspan>
+                                    <tspan x="38.1587624" y="13.7021378">Chronic Illness</tspan>
                                 </text>
                             </g>
-                            <circle id="Oval-2" fill="#DE86C8" cx="203" cy="170" r="86"></circle>
+                            <g id="flowchartText" transform="translate(118.000000, 152.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                <text id="Folate">
+                                    <tspan x="47.1001687" y="13.7021378">Theories on</tspan>
+                                </text>
+                            </g>
+                            <circle id="Oval-2" stroke="#8186BC" stroke-width="3" cx="203" cy="170" r="86"></circle>
                             <path d="M89.6616541,123.657895 L0.338345865,85.3421053" id="Line" stroke="#979797" stroke-linecap="square"></path>
                             <path d="M110.5,255.5 L65.34,292.661765" id="Line" stroke="#979797" stroke-linecap="square"></path>
                             <path d="M297.5,0.5 L255.34,45.6617647" id="Line" stroke="#979797" stroke-linecap="square"></path>
                             <path d="M439.659664,163.333333 L359.340336,174.666667" id="Line" stroke="#979797" stroke-linecap="square"></path>
                             <path d="M402.660256,304.666667 L350.339744,283.333333" id="Line" stroke="#979797" stroke-linecap="square"></path>
                         </g>
+                        <g id="Traits" stroke-width="1" fill-rule="evenodd" transform="translate(988.000000, 895.000000)">
+                            <g id="flowchartText" transform="translate(231.000000, 216.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                <text id="Folate">
+                                    <tspan x="38.1587624" y="13.7021378">Chronic Illness</tspan>
+                                </text>
+                            </g>
+                            <g id="flowchartText" transform="translate(231.000000, 198.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                <text id="Folate">
+                                    <tspan x="38.1450906" y="13.7021378">Traits Affecting</tspan>
+                                </text>
+                            </g>
+                            <circle id="Oval-2" stroke="#8186BC" stroke-width="3" cx="316" cy="216" r="86"></circle>
+                            <path d="M306.661654,68.6578947 L295.5,0.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                            <g id="ApoE4" transform="translate(0.000000, 236.000000)">
+                                <ellipse id="Oval-2" fill="#C5A417" cx="65.5383944" cy="65.521142" rx="65.5383944" ry="65.521142"></ellipse>
+                                <path d="M200.514834,0.33847981 L151.760908,18.6163895" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(19.000000, 142.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="24.5183897" y="13.7021378">ApoE4</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="ApoE3" transform="translate(229.000000, 340.000000)">
+                                <ellipse id="Oval-2" fill="#C5A417" cx="46" cy="105.990787" rx="35" ry="34.9907865"></ellipse>
+                                <path d="M63.5,0.5 L54.3385689,48.6163895" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(0.000000, 155.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="24.5183897" y="13.7021378">ApoE3</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Age" transform="translate(369.000000, 336.000000)">
+                                <ellipse id="Oval-2" fill="#C5A417" cx="46" cy="112.990787" rx="35" ry="34.9907865"></ellipse>
+                                <path d="M0.5,0.5 L20.3385689,43.6163895" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(2.000000, 157.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="33.0804014" y="13.7021378">Age</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="C677T" transform="translate(428.000000, 272.000000)">
+                                <ellipse id="Oval-2" fill="#C5A417" cx="97" cy="56.9907865" rx="35" ry="34.9907865"></ellipse>
+                                <path d="M0.5,0.5 L49.5,27.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(53.000000, 101.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="24.5252257" y="13.7021378">C677T</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="C677T" transform="translate(442.000000, 177.000000)">
+                                <ellipse id="Oval-2" fill="#C5A417" cx="117" cy="34.9907865" rx="35" ry="34.9907865"></ellipse>
+                                <path d="M0.1875,24.5 L66.5,24.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                                <g id="flowchartText" transform="translate(40.000000, 79.000000)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
+                                    <text id="Folate">
+                                        <tspan x="25.4733251" y="13.3115598">Type II Diabetes</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="FolateRing" opacity="0.57959692" transform="translate(549.000000, 355.000000)" stroke-width="3">
+                            <circle id="Oval" stroke="#F43939" cx="37.5" cy="37.5" r="37.5"></circle>
+                        </g>
+                        <g id="CX23Ring" transform="translate(1161.000000, 656.000000)" stroke-width="3">
+                            <circle id="Oval" stroke="#FF0000" cx="94" cy="94" r="94"></circle>
+                        </g>
                     </g>
                 </g>
             </g>
+            <g id="theories-search" transform="translate(63.000000, 521.000000)">
+                <rect id="bounds" x="32" y="0" width="325" height="48"></rect>
+                <path d="M0.998484848,40.5 L329.001515,40.5" id="line" stroke-opacity="0.12" stroke="#000000"></path>
+                <text id="Hint-text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.38" fill="#000000">
+                    <tspan x="1" y="28">Theories</tspan>
+                </text>
+                <g id="chip" transform="translate(0.000000, 48.000000)">
+                    <rect id="chip-bg" fill-opacity="0.200000003" fill="#999999" x="0" y="0" width="187" height="27" rx="13.5"></rect>
+                    <text id="Homocysteine" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.543846241" fill="#000000">
+                        <tspan x="55" y="19">Homocysteine</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Theory" font-family="Helvetica" font-size="16" font-weight="normal" fill-opacity="0.38" fill="#000000">
+                <tspan x="61" y="135">Theory</tspan>
+            </text>
+            <text id="Click-Here" font-family="Helvetica" font-size="16" font-weight="normal" fill-opacity="0.87" fill="#000000">
+                <tspan x="303" y="728">Click Here</tspan>
+            </text>
+            <path d="M293.5,722.5 L196.5,722.5" id="Line" stroke="#FF0000" stroke-width="7" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M196.5,722.5 L207.3,725.5 L207.3,719.5 L196.5,722.5 Z" stroke="#FF0000" stroke-width="7" stroke-linecap="square"></path>
         </g>
     </g>
 </svg>
