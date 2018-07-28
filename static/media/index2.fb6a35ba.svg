@@ -7,10 +7,10 @@
         <ellipse id="path-1" cx="19.2262583" cy="18.8621469" rx="18.6569152" ry="18.8621469"></ellipse>
         <ellipse id="path-3" cx="17.7473153" cy="17.3730301" rx="17.2217679" ry="17.3730301"></ellipse>
         <ellipse id="path-5" cx="26.127992" cy="25.3149867" rx="25.3542694" ry="25.3149867"></ellipse>
-        <ellipse id="path-7" cx="21.1981822" cy="20.3512638" rx="20.570445" ry="20.3512638"></ellipse>
-        <ellipse id="path-9" cx="21.1981822" cy="20.3512638" rx="20.570445" ry="20.3512638"></ellipse>
-        <ellipse id="path-11" cx="21.1981822" cy="20.3512638" rx="20.570445" ry="20.3512638"></ellipse>
-        <ellipse id="path-13" cx="21.1981822" cy="20.3512638" rx="20.570445" ry="20.3512638"></ellipse>
+        <polygon id="path-7" points="21.3430657 0.310606061 42.6861314 15.6560649 34.5338057 40.4855389 8.15232567 40.4855389 1.77635684e-15 15.6560649"></polygon>
+        <polygon id="path-9" points="21.3430657 0.310606061 42.6861314 15.6560649 34.5338057 40.4855389 8.15232567 40.4855389 1.77635684e-15 15.6560649"></polygon>
+        <polygon id="path-11" points="21.3430657 0.310606061 42.6861314 15.6560649 34.5338057 40.4855389 8.15232567 40.4855389 1.77635684e-15 15.6560649"></polygon>
+        <polygon id="path-13" points="21.3430657 0.310606061 42.6861314 15.6560649 34.5338057 40.4855389 8.15232567 40.4855389 1.77635684e-15 15.6560649"></polygon>
         <ellipse id="path-15" cx="39.4384785" cy="38.7170384" rx="38.2705953" ry="38.7170384"></ellipse>
         <ellipse id="path-17" cx="41.9033834" cy="41.1988999" rx="40.6625075" ry="41.1988999"></ellipse>
         <ellipse id="path-19" cx="22.1841442" cy="21.3440084" rx="21.5272098" ry="21.3440084"></ellipse>
@@ -18,34 +18,20 @@
         <ellipse id="path-23" cx="22.1841442" cy="21.3440084" rx="21.5272098" ry="21.3440084"></ellipse>
         <ellipse id="path-25" cx="22.1841442" cy="21.3440084" rx="21.5272098" ry="21.3440084"></ellipse>
         <ellipse id="path-27" cx="22.1841442" cy="21.3440084" rx="21.5272098" ry="21.3440084"></ellipse>
-        <ellipse id="path-29" cx="21.1981822" cy="20.3512638" rx="20.570445" ry="20.3512638"></ellipse>
-        <ellipse id="path-31" cx="26.127992" cy="25.3149867" rx="25.3542694" ry="25.3149867"></ellipse>
+        <polygon id="path-29" points="21.3984052 0 40.1059351 10.1653932 40.1059351 30.4961796 21.3984052 40.6615728 2.69087538 30.4961796 2.69087538 10.1653932"></polygon>
+        <rect id="path-31" x="8.58394161" y="7.77272727" width="38.0145985" height="38.0454545"></rect>
         <ellipse id="path-33" cx="37.9595355" cy="37.2279216" rx="36.835448" ry="37.2279216"></ellipse>
         <ellipse id="path-35" cx="51.270022" cy="50.1336011" rx="49.7517739" ry="50.1336011"></ellipse>
         <ellipse id="path-37" cx="64.0875275" cy="62.5429083" rx="62.1897173" ry="62.5429083"></ellipse>
         <ellipse id="path-39" cx="33.5227067" cy="32.760571" rx="32.530006" ry="32.760571"></ellipse>
         <ellipse id="path-41" cx="54.2279079" cy="53.1118348" rx="52.6220685" ry="53.1118348"></ellipse>
         <ellipse id="path-43" cx="37.9595355" cy="37.2279216" rx="36.835448" ry="37.2279216"></ellipse>
-        <ellipse id="path-45" cx="45.3542503" cy="43.6807613" rx="44.0111846" ry="43.6807613"></ellipse>
-        <ellipse id="path-47" cx="37.9595355" cy="37.2279216" rx="36.835448" ry="37.2279216"></ellipse>
+        <polygon id="path-45" points="69.4400543 8 134.880109 121.345499 4 121.345499"></polygon>
+        <polygon id="path-47" points="56.7685115 6.54545455 110.26695 99.2826809 3.27007299 99.2826809"></polygon>
     </defs>
     <g id="Cx23-Storyboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Home">
             <g id="Flow-Chart">
-                <g id="Radius-Grids" opacity="0.244678442" stroke-width="1" fill-rule="evenodd" transform="translate(-684.000000, -1264.000000)" stroke="#979797">
-                    <circle id="Oval" fill="#DDEAED" cx="1963.5" cy="1968.5" r="235.5"></circle>
-                    <circle id="Oval" cx="1963" cy="1968" r="308"></circle>
-                    <circle id="Oval" cx="1963" cy="1968" r="673"></circle>
-                    <ellipse id="Oval" cx="1963.5" cy="1968.5" rx="368.5" ry="371.5"></ellipse>
-                    <ellipse id="Oval" cx="1963.5" cy="1968" rx="482.5" ry="486"></ellipse>
-                    <ellipse id="Oval" cx="1963.5" cy="1968" rx="582.5" ry="587"></ellipse>
-                    <ellipse id="Oval" cx="1963.5" cy="1968" rx="1541.5" ry="1545"></ellipse>
-                    <ellipse id="Oval" cx="1963" cy="1968.5" rx="898" ry="900.5"></ellipse>
-                    <ellipse id="Oval" cx="1963" cy="1968" rx="1963" ry="1968"></ellipse>
-                    <ellipse id="Oval" cx="1963" cy="1968" rx="1075" ry="1086"></ellipse>
-                    <ellipse id="Oval" cx="1963.5" cy="1968.5" rx="1357.5" ry="1370.5"></ellipse>
-                    <ellipse id="Oval" cx="1963" cy="1968.5" rx="1699" ry="1716.5"></ellipse>
-                </g>
                 <text id="Chronic-Illnesses" opacity="0.678045743" font-family="Helvetica" font-size="12" font-weight="normal" fill-opacity="0.87" fill="#000000">
                     <tspan x="1228.81445" y="521">Chronic Illnesses</tspan>
                 </text>
@@ -123,19 +109,17 @@
                 <g id="Intervention-Amounts" stroke-width="1" fill-rule="evenodd" transform="translate(207.000000, 51.000000)">
                     <g id="Folic-Acid-Default" transform="translate(0.000000, 261.000000)">
                         <g id="interventionAmountCircle">
-                            <g id="flowChartCircle">
-                                <mask id="mask-8" fill="white">
-                                    <use xlink:href="#path-7"></use>
-                                </mask>
-                                <g id="Oval-2"></g>
-                                <g id="lightBlue" opacity="0.596014493" mask="url(#mask-8)" fill-rule="evenodd" fill="#5691E5">
-                                    <rect id="Rectangle" x="0" y="0" width="43" height="41"></rect>
-                                </g>
-                                <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.772758152" mask="url(#mask-8)" cx="21.1861314" cy="20.344697" rx="20.5583942" ry="20.344697"></ellipse>
-                                <text id="Default" mask="url(#mask-8)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                    <tspan x="16.4448242" y="22.3977273">D</tspan>
-                                </text>
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <use id="Polygon" stroke="#979797" stroke-width="1" opacity="0.707823822" xlink:href="#path-7"></use>
+                            <g id="Yellow" opacity="0.596014493" mask="url(#mask-8)" fill-rule="evenodd" fill="#DCCE47">
+                                <rect id="Rectangle" x="0" y="0" width="43" height="41"></rect>
                             </g>
+                            <polygon id="Polygon" stroke="#979797" stroke-width="1" opacity="0.707823822" mask="url(#mask-8)" points="21.3430657 0.310606061 42.6861314 15.6560649 34.5338057 40.4855389 8.15232567 40.4855389 1.55431223e-15 15.6560649"></polygon>
+                            <text id="D" mask="url(#mask-8)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
+                                <tspan x="16.4448242" y="22.3977273">D</tspan>
+                            </text>
                         </g>
                         <g id="amountLine" transform="translate(51.000000, 5.000000)">
                             <polygon id="Path-4" stroke="#979797" stroke-width="1" opacity="0.430819746" points="0 13.8056641 67.462676 13.4189453 67.462676 9.59179687 72 13.4189453 67.462676 16.6015625 67.462676 13.8056641"></polygon>
@@ -146,25 +130,20 @@
                                 </g>
                             </g>
                         </g>
-                        <g id="biomarkerAmountRing" transform="translate(3.000000, 2.000000)" stroke-width="3" stroke="#AEBAFF">
-                            <circle id="Oval" cx="18.5" cy="18.5" r="18.5"></circle>
-                        </g>
                     </g>
                     <g id="5MT-Default" transform="translate(401.000000, 21.000000)">
                         <g id="interventionAmountCircle" transform="translate(64.000000, 0.000000)">
-                            <g id="flowChartCircle">
-                                <mask id="mask-10" fill="white">
-                                    <use xlink:href="#path-9"></use>
-                                </mask>
-                                <g id="Oval-2"></g>
-                                <g id="lightBlue" opacity="0.596014493" mask="url(#mask-10)" fill-rule="evenodd" fill="#5691E5">
-                                    <rect id="Rectangle" x="0" y="0" width="43" height="41"></rect>
-                                </g>
-                                <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.772758152" mask="url(#mask-10)" cx="21.1861314" cy="20.344697" rx="20.5583942" ry="20.344697"></ellipse>
-                                <text id="Default" mask="url(#mask-10)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                    <tspan x="16.4448242" y="22.3977273">D</tspan>
-                                </text>
+                            <mask id="mask-10" fill="white">
+                                <use xlink:href="#path-9"></use>
+                            </mask>
+                            <use id="Polygon" stroke="#979797" stroke-width="1" opacity="0.707823822" xlink:href="#path-9"></use>
+                            <g id="Yellow" opacity="0.596014493" mask="url(#mask-10)" fill-rule="evenodd" fill="#DCCE47">
+                                <rect id="Rectangle" x="0" y="0" width="43" height="41"></rect>
                             </g>
+                            <polygon id="Polygon" stroke="#979797" stroke-width="1" opacity="0.707823822" mask="url(#mask-10)" points="21.3430657 0.310606061 42.6861314 15.6560649 34.5338057 40.4855389 8.15232567 40.4855389 1.55431223e-15 15.6560649"></polygon>
+                            <text id="D" mask="url(#mask-10)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
+                                <tspan x="16.4448242" y="22.3977273">D</tspan>
+                            </text>
                         </g>
                         <g id="amountLine" transform="translate(37.000000, 62.500000) rotate(-40.000000) translate(-37.000000, -62.500000) translate(1.000000, 49.000000)">
                             <polygon id="Path-4" stroke="#979797" stroke-width="1" opacity="0.430819746" points="0 13.8056641 67.462676 13.4189453 67.462676 9.59179687 72 13.4189453 67.462676 16.6015625 67.462676 13.8056641"></polygon>
@@ -178,19 +157,17 @@
                     </g>
                     <g id="Folinic-Acid-Default" transform="translate(59.000000, 58.000000)">
                         <g id="interventionAmountCircle">
-                            <g id="flowChartCircle">
-                                <mask id="mask-12" fill="white">
-                                    <use xlink:href="#path-11"></use>
-                                </mask>
-                                <g id="Oval-2"></g>
-                                <g id="lightBlue" opacity="0.596014493" mask="url(#mask-12)" fill-rule="evenodd" fill="#5691E5">
-                                    <rect id="Rectangle" x="0" y="0" width="43" height="41"></rect>
-                                </g>
-                                <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.772758152" mask="url(#mask-12)" cx="21.1861314" cy="20.344697" rx="20.5583942" ry="20.344697"></ellipse>
-                                <text id="Default" mask="url(#mask-12)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                    <tspan x="16.4448242" y="22.3977273">D</tspan>
-                                </text>
+                            <mask id="mask-12" fill="white">
+                                <use xlink:href="#path-11"></use>
+                            </mask>
+                            <use id="Polygon" stroke="#979797" stroke-width="1" opacity="0.707823822" xlink:href="#path-11"></use>
+                            <g id="Yellow" opacity="0.596014493" mask="url(#mask-12)" fill-rule="evenodd" fill="#DCCE47">
+                                <rect id="Rectangle" x="0" y="0" width="43" height="41"></rect>
                             </g>
+                            <polygon id="Polygon" stroke="#979797" stroke-width="1" opacity="0.707823822" mask="url(#mask-12)" points="21.3430657 0.310606061 42.6861314 15.6560649 34.5338057 40.4855389 8.15232567 40.4855389 1.55431223e-15 15.6560649"></polygon>
+                            <text id="D" mask="url(#mask-12)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
+                                <tspan x="16.4448242" y="22.3977273">D</tspan>
+                            </text>
                         </g>
                         <g id="amountLine" transform="translate(88.000000, 52.500000) rotate(26.000000) translate(-88.000000, -52.500000) translate(52.000000, 39.000000)">
                             <polygon id="Path-4" stroke="#979797" stroke-width="1" opacity="0.430819746" points="0 13.8056641 67.462676 13.4189453 67.462676 9.59179687 72 13.4189453 67.462676 16.6015625 67.462676 13.8056641"></polygon>
@@ -204,19 +181,17 @@
                     </g>
                     <g id="Folonic-Acid-C6777T" transform="translate(186.000000, 0.000000)">
                         <g id="interventionAmountCircle">
-                            <g id="flowChartCircle">
-                                <mask id="mask-14" fill="white">
-                                    <use xlink:href="#path-13"></use>
-                                </mask>
-                                <g id="Oval-2"></g>
-                                <g id="lightBlue" opacity="0.596014493" mask="url(#mask-14)" fill-rule="evenodd" fill="#5691E5">
-                                    <rect id="Rectangle" x="0" y="0" width="43" height="41"></rect>
-                                </g>
-                                <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.772758152" mask="url(#mask-14)" cx="21.1861314" cy="20.344697" rx="20.5583942" ry="20.344697"></ellipse>
-                                <text id="Default" mask="url(#mask-14)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                    <tspan x="4.765625" y="22.3977273">C677</tspan>
-                                </text>
+                            <mask id="mask-14" fill="white">
+                                <use xlink:href="#path-13"></use>
+                            </mask>
+                            <use id="Polygon" stroke="#979797" stroke-width="1" opacity="0.707823822" xlink:href="#path-13"></use>
+                            <g id="Yellow" opacity="0.596014493" mask="url(#mask-14)" fill-rule="evenodd" fill="#DCCE47">
+                                <rect id="Rectangle" x="0" y="0" width="43" height="41"></rect>
                             </g>
+                            <polygon id="Polygon" stroke="#979797" stroke-width="1" opacity="0.707823822" mask="url(#mask-14)" points="21.3430657 0.310606061 42.6861314 15.6560649 34.5338057 40.4855389 8.15232567 40.4855389 1.55431223e-15 15.6560649"></polygon>
+                            <text id="D" mask="url(#mask-14)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
+                                <tspan x="8.65869141" y="22.3977273">C67</tspan>
+                            </text>
                         </g>
                         <g id="amountLine" transform="translate(28.000000, 80.500000) rotate(88.000000) translate(-28.000000, -80.500000) translate(-8.000000, 67.000000)">
                             <polygon id="Path-4" stroke="#979797" stroke-width="1" opacity="0.430819746" points="0 13.8056641 67.462676 13.4189453 67.462676 9.59179687 72 13.4189453 67.462676 16.6015625 67.462676 13.8056641"></polygon>
@@ -406,26 +381,21 @@
                             </g>
                         </g>
                         <g id="biomarkerAmountCircle" transform="translate(0.000000, 63.000000)">
-                            <g id="flowChartCircle">
-                                <mask id="mask-30" fill="white">
-                                    <use xlink:href="#path-29"></use>
-                                </mask>
-                                <g id="Oval-2"></g>
-                                <g id="lightBlue" opacity="0.596014493" mask="url(#mask-30)" fill-rule="evenodd" fill="#5691E5">
-                                    <rect id="Rectangle" x="0" y="0" width="43" height="41"></rect>
-                                </g>
-                                <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.772758152" mask="url(#mask-30)" cx="21.1861314" cy="20.344697" rx="20.5583942" ry="20.344697"></ellipse>
-                                <text id="Default" mask="url(#mask-30)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                    <tspan x="16.4448242" y="22.3977273">D</tspan>
-                                </text>
+                            <mask id="mask-30" fill="white">
+                                <use xlink:href="#path-29"></use>
+                            </mask>
+                            <use id="Polygon-2" stroke="#979797" stroke-width="1" xlink:href="#path-29"></use>
+                            <g id="Yellow" opacity="0.596014493" mask="url(#mask-30)" fill-rule="evenodd" fill="#DCCE47">
+                                <rect id="Rectangle" x="0" y="0" width="43" height="41"></rect>
                             </g>
-                        </g>
-                        <g id="biomarkerAmountRing" transform="translate(3.000000, 65.000000)" stroke-width="3" stroke="#AEBAFF">
-                            <circle id="Oval" cx="18.5" cy="18.5" r="18.5"></circle>
+                            <polygon id="Polygon-2" stroke="#979797" stroke-width="1" opacity="0.746999547" mask="url(#mask-30)" points="21.3984052 0 40.1059351 10.1653932 40.1059351 30.4961796 21.3984052 40.6615728 2.69087538 30.4961796 2.69087538 10.1653932"></polygon>
+                            <text id="D" mask="url(#mask-30)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
+                                <tspan x="16.4448242" y="20.5340909">D</tspan>
+                            </text>
                         </g>
                     </g>
-                    <g id="Homocysteine-Blood-Test" transform="translate(189.000000, 324.000000)">
-                        <g id="testLine" transform="translate(35.914500, 38.121091) rotate(-82.000000) translate(-35.914500, -38.121091) translate(-0.085500, 24.621091)">
+                    <g id="Homocysteine-Blood-Test" transform="translate(186.000000, 324.000000)">
+                        <g id="testLine" transform="translate(38.914500, 38.121091) rotate(-82.000000) translate(-38.914500, -38.121091) translate(2.914500, 24.621091)">
                             <polygon id="Path-4" stroke="#979797" stroke-width="1" opacity="0.430819746" points="0 13.8056641 67.462676 13.4189453 67.462676 9.59179687 72 13.4189453 67.462676 16.6015625 67.462676 13.8056641"></polygon>
                             <rect id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" x="23" y="0" width="27" height="27"></rect>
                             <g id="syringe-solid" opacity="0.424988678" transform="translate(25.000000, 1.000000)" stroke-width="1" fill-rule="evenodd" fill="#000000">
@@ -434,17 +404,17 @@
                                 </g>
                             </g>
                         </g>
-                        <g id="flowChartCircle" transform="translate(1.000000, 87.000000)">
+                        <g id="testCircle" transform="translate(2.000000, 86.000000)">
                             <mask id="mask-32" fill="white">
                                 <use xlink:href="#path-31"></use>
                             </mask>
-                            <g id="Oval-2"></g>
-                            <g id="Beige" opacity="0.596014493" mask="url(#mask-32)" fill-rule="evenodd" fill="#E5BF56">
-                                <rect id="Rectangle" x="0" y="0" width="53" height="51"></rect>
+                            <rect stroke="#979797" stroke-width="1" x="9.08394161" y="8.27272727" width="37.0145985" height="37.0454545"></rect>
+                            <g id="Yellow" opacity="0.596014493" mask="url(#mask-32)" fill-rule="evenodd" fill="#DCCE47">
+                                <rect id="Rectangle" x="0" y="0" width="56" height="54"></rect>
                             </g>
-                            <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.772758152" mask="url(#mask-32)" cx="26.1131387" cy="25.3068182" rx="25.3394161" ry="25.3068182"></ellipse>
-                            <text id="Default" mask="url(#mask-32)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                <tspan x="12.5" y="27.7386364">HBT</tspan>
+                            <rect id="Rectangle" stroke="#979797" stroke-width="1" opacity="0.679177989" mask="url(#mask-32)" transform="translate(27.591241, 26.795455) rotate(45.000000) translate(-27.591241, -26.795455) " x="9.08394161" y="8.27272727" width="37.0145985" height="37.0454545"></rect>
+                            <text id="D" mask="url(#mask-32)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
+                                <tspan x="14" y="28.1136364">HBT</tspan>
                             </text>
                         </g>
                     </g>
@@ -547,61 +517,62 @@
                         </g>
                     </g>
                 </g>
-                <g id="Diseases" stroke-width="1" fill-rule="evenodd" transform="translate(1042.000000, 519.000000)">
-                    <g id="AD" transform="translate(181.000000, 61.000000)">
-                        <g id="flowChartCircle">
+                <g id="Diseases" stroke-width="1" fill-rule="evenodd" transform="translate(1042.000000, 484.000000)">
+                    <g id="AD" transform="translate(156.000000, 65.000000)">
+                        <g id="diseaseCircle">
                             <mask id="mask-46" fill="white">
                                 <use xlink:href="#path-45"></use>
                             </mask>
-                            <g id="Oval-2"></g>
-                            <g id="darkBlue" opacity="0.596014493" mask="url(#mask-46)" fill-rule="evenodd" fill="#1360CD">
-                                <rect id="Rectangle" x="0" y="0" width="92" height="88"></rect>
+                            <use id="Polygon" stroke="#979797" stroke-width="1" xlink:href="#path-45"></use>
+                            <g id="lightBlue" opacity="0.596014493" mask="url(#mask-46)" fill-rule="evenodd" fill="#5691E5">
+                                <rect id="Rectangle" x="0" y="0" width="137" height="132"></rect>
                             </g>
-                            <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.772758152" mask="url(#mask-46)" cx="45.3284672" cy="43.6666667" rx="43.9854015" ry="43.6666667"></ellipse>
+                            <polygon id="Polygon" stroke="#979797" stroke-width="1" opacity="0.369791667" mask="url(#mask-46)" points="69.4400543 8 134.880109 121.345499 4 121.345499"></polygon>
                             <text id="Default" mask="url(#mask-46)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                <tspan x="36.2758789" y="47.5">AD</tspan>
+                                <tspan x="58.7758789" y="85">AD</tspan>
                             </text>
                         </g>
                     </g>
-                    <g id="Cardio" transform="translate(195.000000, 216.000000)">
-                        <g id="flowChartCircle">
+                    <g id="Cardio" transform="translate(182.000000, 215.000000)">
+                        <g id="diseaseCircle">
                             <mask id="mask-48" fill="white">
                                 <use xlink:href="#path-47"></use>
                             </mask>
-                            <g id="Oval-2"></g>
-                            <g id="darkBlue" opacity="0.596014493" mask="url(#mask-48)" fill-rule="evenodd" fill="#1360CD">
-                                <rect id="Rectangle" x="0" y="0" width="77" height="75"></rect>
+                            <use id="Polygon" stroke="#979797" stroke-width="1" xlink:href="#path-47"></use>
+                            <g id="lightBlue" opacity="0.596014493" mask="url(#mask-48)" fill-rule="evenodd" fill="#5691E5">
+                                <rect id="Rectangle" x="0" y="0" width="112" height="108"></rect>
                             </g>
-                            <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.772758152" mask="url(#mask-48)" cx="37.9379562" cy="37.2159091" rx="36.8138686" ry="37.2159091"></ellipse>
+                            <polygon id="Polygon" stroke="#979797" stroke-width="1" opacity="0.369791667" mask="url(#mask-48)" points="56.7685115 6.54545455 110.26695 99.2826809 3.27007299 99.2826809"></polygon>
                             <text id="Default" mask="url(#mask-48)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                <tspan x="28.3896484" y="40.5568182">CD</tspan>
+                                <tspan x="45.8896484" y="69.6363636">CD</tspan>
                             </text>
                         </g>
                     </g>
-                    <g id="diseaseLine" transform="translate(115.932536, 197.818732) rotate(23.000000) translate(-115.932536, -197.818732) translate(49.523259, 172.915253)" stroke="#979797" opacity="0.430819746">
+                    <g id="diseaseLine" transform="translate(115.932536, 232.818732) rotate(23.000000) translate(-115.932536, -232.818732) translate(49.523259, 207.915253)" stroke="#979797" opacity="0.430819746">
                         <polygon id="Path-4" points="0 25.5660446 124.618554 24.8498987 124.618554 17.7625868 133 24.8498987 124.618554 30.7436343 124.618554 25.5660446"></polygon>
                     </g>
-                    <g id="diseaseLine" transform="translate(306.154150, 27.652558) rotate(143.000000) translate(-306.154150, -27.652558) translate(276.207816, 16.422683)" stroke="#979797" opacity="0.430819746">
+                    <g id="diseaseLine" transform="translate(306.154150, 62.652558) rotate(143.000000) translate(-306.154150, -62.652558) translate(276.207816, 51.422683)" stroke="#979797" opacity="0.430819746">
                         <polygon id="Path-4" points="0 11.2490596 56.2188967 10.9339554 56.2188967 7.81553819 60 10.9339554 56.2188967 13.5271991 56.2188967 11.2490596"></polygon>
                     </g>
-                    <g id="diseaseLine" transform="translate(310.614710, 129.681958) rotate(115.000000) translate(-310.614710, -129.681958) translate(239.584095, 103.045477)" stroke="#979797" opacity="0.430819746">
+                    <g id="diseaseLine" transform="translate(310.614710, 164.681958) rotate(115.000000) translate(-310.614710, -164.681958) translate(239.584095, 138.045477)" stroke="#979797" opacity="0.430819746">
                         <polygon id="Path-4" points="0 27.1000072 133.051389 26.3408927 133.051389 18.828342 142 26.3408927 133.051389 32.5882523 133.051389 27.1000072"></polygon>
                     </g>
-                    <g id="diseaseLine" transform="translate(396.614710, 161.681958) rotate(195.000000) translate(-396.614710, -161.681958) translate(325.584095, 135.045477)" stroke="#979797" opacity="0.430819746">
+                    <g id="diseaseLine" transform="translate(396.614710, 196.681958) rotate(195.000000) translate(-396.614710, -196.681958) translate(325.584095, 170.045477)" stroke="#979797" opacity="0.430819746">
                         <polygon id="Path-4" points="0 27.1000072 133.051389 26.3408927 133.051389 18.828342 142 26.3408927 133.051389 32.5882523 133.051389 27.1000072"></polygon>
                     </g>
-                    <g id="diseaseLine" transform="translate(379.044698, 273.877406) rotate(225.000000) translate(-379.044698, -273.877406) translate(273.630707, 234.347160)" stroke="#979797" opacity="0.430819746">
+                    <g id="diseaseLine" transform="translate(379.044698, 308.877406) rotate(225.000000) translate(-379.044698, -308.877406) translate(273.630707, 269.347160)" stroke="#979797" opacity="0.430819746">
                         <polygon id="Path-4" points="0 40.3943504 197.70312 39.26284 197.70312 28.0648872 211 39.26284 197.70312 48.5749421 197.70312 40.3943504"></polygon>
                     </g>
-                    <g id="diseaseLine" transform="translate(135.932536, 337.818732) rotate(-37.000000) translate(-135.932536, -337.818732) translate(69.523259, 312.915253)" stroke="#979797" opacity="0.430819746">
+                    <g id="diseaseLine" transform="translate(135.932536, 372.818732) rotate(-37.000000) translate(-135.932536, -372.818732) translate(69.523259, 347.915253)" stroke="#979797" opacity="0.430819746">
                         <polygon id="Path-4" points="0 25.5660446 124.618554 24.8498987 124.618554 17.7625868 133 24.8498987 124.618554 30.7436343 124.618554 25.5660446"></polygon>
                     </g>
-                    <g id="diseaseLine" transform="translate(98.783739, 253.445062) rotate(-49.000000) translate(-98.783739, -253.445062) translate(-5.763276, 214.239932)" stroke="#979797" opacity="0.430819746">
+                    <g id="diseaseLine" transform="translate(98.783739, 288.445062) rotate(-49.000000) translate(-98.783739, -288.445062) translate(-5.763276, 249.239932)" stroke="#979797" opacity="0.430819746">
                         <polygon id="Path-4" points="0 39.8830295 195.829157 38.765842 195.829157 27.7096354 209 38.765842 195.829157 47.9600694 195.829157 39.8830295"></polygon>
                     </g>
-                    <g id="diseaseLine" transform="translate(54.000000, 89.000000)" stroke="#979797" opacity="0.430819746">
+                    <g id="diseaseLine" transform="translate(54.000000, 124.000000)" stroke="#979797" opacity="0.430819746">
                         <polygon id="Path-4" points="0 16.8735894 82.4543818 16.4009332 82.4543818 11.7233073 88 16.4009332 82.4543818 20.2907986 82.4543818 16.8735894"></polygon>
                     </g>
+                    <circle id="Oval" stroke="#979797" fill="#529AD8" opacity="0.147248641" cx="230" cy="225" r="225"></circle>
                 </g>
                 <g id="Click-Here" transform="translate(369.000000, 417.000000)" stroke-width="1" fill-rule="evenodd">
                     <g>

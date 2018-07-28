@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="232px" height="339px" viewBox="0 0 232 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Shapes</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Material-Design-Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="legend" transform="translate(0.000000, -60.000000)">
+            <g id="Shapes" transform="translate(0.000000, 60.000000)">
+                <rect id="Rectangle-3" fill="#FFFFFF" x="0" y="0" width="232" height="339"></rect>
+                <g id="Pentagon" transform="translate(19.000000, 269.000000)">
+                    <text id="Intervention-Amount" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                        <tspan x="44.2348633" y="14">Intervention Amount</tspan>
+                    </text>
+                    <polygon id="Polygon" stroke="#979797" stroke-width="2" points="19.4966586 2 38.9933172 16.1651516 31.5462563 39.0848484 7.44706091 39.0848484 0 16.1651516"></polygon>
+                    <text id="A-desirable-amount-o" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="13" fill-opacity="0.87" fill="#545454">
+                        <tspan x="44" y="30">A desirable amount of an</tspan>
+                        <tspan x="44" y="43">ingestible or activity that</tspan>
+                        <tspan x="44" y="56">prevents chronic illness</tspan>
+                    </text>
+                </g>
+                <g id="Circle" transform="translate(20.000000, 8.000000)">
+                    <circle id="Oval" stroke="#979797" stroke-width="2" cx="16" cy="18" r="16"></circle>
+                    <text id="Effect" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                        <tspan x="43" y="14">Effect</tspan>
+                    </text>
+                    <text id="Anything-that-impact" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="13" fill-opacity="0.87" fill="#545454">
+                        <tspan x="43" y="30">Anything that impacts</tspan>
+                        <tspan x="43" y="43">chronic illness </tspan>
+                    </text>
+                </g>
+                <g id="Square" transform="translate(15.000000, 57.000000)">
+                    <rect id="Rectangle" stroke="#979797" stroke-width="2" transform="translate(22.500000, 22.500000) rotate(45.000000) translate(-22.500000, -22.500000) " x="8" y="8" width="29" height="29"></rect>
+                    <text id="A-test-that-can-be-t" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="13" fill-opacity="0.87" fill="#545454">
+                        <tspan x="48" y="29">A test that can be taken</tspan>
+                        <tspan x="48" y="42">to uncover body truths</tspan>
+                        <tspan x="48" y="55">(Genetic, blood, etc)</tspan>
+                    </text>
+                    <text id="Test" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                        <tspan x="49" y="14">Test</tspan>
+                    </text>
+                </g>
+                <g id="Triangle" transform="translate(18.000000, 117.000000)">
+                    <polygon stroke="#979797" stroke-width="2" points="19 7 38 45 0 45"></polygon>
+                    <text id="Any-kind-of-chronic" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="13" fill-opacity="0.87" fill="#545454">
+                        <tspan x="45" y="30">Any kind of chronic illness</tspan>
+                        <tspan x="45" y="43">(Alzheimer’s, Diabetes, etc)</tspan>
+                    </text>
+                    <text id="Chronic-Illness" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                        <tspan x="44.5932617" y="14">Chronic Illness</tspan>
+                    </text>
+                </g>
+                <g id="Hexagon" transform="translate(22.000000, 211.000000)">
+                    <text id="Biomarker-Amount" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                        <tspan x="40.4174805" y="14">Biomarker Amount</tspan>
+                    </text>
+                    <polygon id="Polygon-2" stroke="#979797" stroke-width="2" points="16 1 31.5884573 10 31.5884573 28 16 37 0.411542732 28 0.411542732 10"></polygon>
+                    <text id="A-desirable-amount-o" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="13" fill-opacity="0.87" fill="#545454">
+                        <tspan x="41" y="28">A desirable amount of a</tspan>
+                        <tspan x="41" y="41">measurable body chemical</tspan>
+                        <tspan x="41" y="54">(blood sugar, HDL, etc)</tspan>
+                    </text>
+                </g>
+                <text id="Recommendations" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.87" fill="#000000">
+                    <tspan x="23" y="191">Recommendations</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

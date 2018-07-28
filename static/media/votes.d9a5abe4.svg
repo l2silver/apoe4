@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="232px" height="34px" viewBox="0 0 232 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Votes</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Material-Design-Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="legend">
+            <g id="Colour">
+                <g id="Votes">
+                    <rect id="Rectangle-3" fill="#FFFFFF" x="0" y="0" width="232" height="34"></rect>
+                    <path d="M97.5,22.5 L135.14306,22.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                    <path id="Line-decoration-1" d="M135.14306,22.5 L124.34306,19.5 L124.34306,25.5 L135.14306,22.5 Z" stroke="#979797" stroke-linecap="square"></path>
+                    <text font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                        <tspan x="98" y="14">Votes</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

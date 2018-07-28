@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="247px" height="467px" viewBox="0 0 247 467" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>legend</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="33" width="162" height="20"></rect>
+    </defs>
+    <g id="Material-Design-Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="legend">
+            <text id="Recommendations" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill-opacity="0.87" fill="#000000">
+                <tspan x="31" y="263">Recommendations</tspan>
+            </text>
+            <g id="Pentagon" transform="translate(27.000000, 341.000000)">
+                <text id="Intervention-Amount" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                    <tspan x="44.2348633" y="14">Intervention Amount</tspan>
+                </text>
+                <polygon id="Polygon" stroke="#979797" stroke-width="2" points="19.4966586 2 38.9933172 16.1651516 31.5462563 39.0848484 7.44706091 39.0848484 0 16.1651516"></polygon>
+                <text id="A-desirable-amount-o" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="13" fill-opacity="0.87" fill="#545454">
+                    <tspan x="44" y="30">A desirable amount of an</tspan>
+                    <tspan x="44" y="43">ingestible or activity that</tspan>
+                    <tspan x="44" y="56">prevents chronic illness</tspan>
+                </text>
+            </g>
+            <g id="Circle" transform="translate(28.000000, 80.000000)">
+                <circle id="Oval" stroke="#979797" stroke-width="2" cx="16" cy="18" r="16"></circle>
+                <text id="Effect" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                    <tspan x="43" y="14">Effect</tspan>
+                </text>
+                <text id="Anything-that-impact" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="13" fill-opacity="0.87" fill="#545454">
+                    <tspan x="43" y="30">Anything that impacts</tspan>
+                    <tspan x="43" y="43">chronic illness </tspan>
+                </text>
+            </g>
+            <g id="Square" transform="translate(23.000000, 129.000000)">
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" transform="translate(22.500000, 22.500000) rotate(45.000000) translate(-22.500000, -22.500000) " x="8" y="8" width="29" height="29"></rect>
+                <text id="A-test-that-can-be-t" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="13" fill-opacity="0.87" fill="#545454">
+                    <tspan x="48" y="29">A test that can be taken</tspan>
+                    <tspan x="48" y="42">to uncover body truths</tspan>
+                    <tspan x="48" y="55">(Genetic, blood, etc)</tspan>
+                </text>
+                <text id="Test" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                    <tspan x="49" y="14">Test</tspan>
+                </text>
+            </g>
+            <g id="Triangle" transform="translate(26.000000, 189.000000)">
+                <polygon stroke="#979797" stroke-width="2" points="19 7 38 45 0 45"></polygon>
+                <text id="Any-kind-of-chronic" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="13" fill-opacity="0.87" fill="#545454">
+                    <tspan x="45" y="30">Any kind of chronic illness</tspan>
+                    <tspan x="45" y="43">(Alzheimer’s, Diabetes, etc)</tspan>
+                </text>
+                <text id="Chronic-Illness" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                    <tspan x="44.5932617" y="14">Chronic Illness</tspan>
+                </text>
+            </g>
+            <g id="Hexagon" transform="translate(28.000000, 283.000000)">
+                <text id="Biomarker-Amount" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                    <tspan x="42.4174805" y="14">Biomarker Amount</tspan>
+                </text>
+                <polygon id="Polygon-2" stroke="#979797" stroke-width="2" points="18 1 33.5884573 10 33.5884573 28 18 37 2.41154273 28 2.41154273 10"></polygon>
+                <text id="A-desirable-amount-o" font-family="Helvetica" font-size="12" font-weight="normal" line-spacing="13" fill-opacity="0.87" fill="#545454">
+                    <tspan x="43" y="28">A desirable amount of a</tspan>
+                    <tspan x="43" y="41">measurable body chemical</tspan>
+                    <tspan x="43" y="54">(blood sugar, HDL, etc)</tspan>
+                </text>
+            </g>
+            <g id="Colour" transform="translate(43.000000, 12.000000)">
+                <path d="M62.5,22.5 L100.14306,22.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                <path id="Line-decoration-1" d="M100.14306,22.5 L89.3430604,19.5 L89.3430604,25.5 L100.14306,22.5 Z" stroke="#979797" stroke-linecap="square"></path>
+                <text id="Votes" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.87" fill="#000000">
+                    <tspan x="63" y="14">Votes</tspan>
+                </text>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle-2"></g>
+                <image id="Screen-Shot-2018-07-28-at-1.23.18-AM" mask="url(#mask-2)" x="76" y="-50" width="14" height="186" xlink:href="data:image/png;base64,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">
+                    <g transform="translate(83.000000, 43.000000) rotate(90.000000) translate(-83.000000, -43.000000) "></g>
+                </image>
+            </g>
+        </g>
+    </g>
+</svg>
