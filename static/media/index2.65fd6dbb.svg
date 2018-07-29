@@ -19,7 +19,7 @@
         <ellipse id="path-25" cx="22.1841442" cy="21.3440084" rx="21.5272098" ry="21.3440084"></ellipse>
         <ellipse id="path-27" cx="22.1841442" cy="21.3440084" rx="21.5272098" ry="21.3440084"></ellipse>
         <polygon id="path-29" points="21.3984052 0 40.1059351 10.1653932 40.1059351 30.4961796 21.3984052 40.6615728 2.69087538 30.4961796 2.69087538 10.1653932"></polygon>
-        <rect id="path-31" x="8.58394161" y="7.77272727" width="38.0145985" height="38.0454545"></rect>
+        <polygon id="path-31" points="27.7956204 0 54.3649635 27 27.7956204 54 1.22627737 27"></polygon>
         <ellipse id="path-33" cx="37.9595355" cy="37.2279216" rx="36.835448" ry="37.2279216"></ellipse>
         <ellipse id="path-35" cx="51.270022" cy="50.1336011" rx="49.7517739" ry="50.1336011"></ellipse>
         <ellipse id="path-37" cx="64.0875275" cy="62.5429083" rx="62.1897173" ry="62.5429083"></ellipse>
@@ -32,6 +32,22 @@
     <g id="Cx23-Storyboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Home">
             <g id="Flow-Chart">
+                <g id="RadiusSize" transform="translate(-695.000000, -1266.000000)" stroke-width="1" fill-rule="evenodd" stroke="#979797" opacity="0.244678442">
+                    <g id="Radius-Grids">
+                        <circle id="Oval" fill="#DDEAED" cx="1963.5" cy="1968.5" r="235.5"></circle>
+                        <circle id="Oval" cx="1963" cy="1968" r="308"></circle>
+                        <circle id="Oval" cx="1963" cy="1968" r="673"></circle>
+                        <ellipse id="Oval" cx="1963.5" cy="1968.5" rx="368.5" ry="371.5"></ellipse>
+                        <ellipse id="Oval" cx="1963.5" cy="1968" rx="482.5" ry="486"></ellipse>
+                        <ellipse id="Oval" cx="1963.5" cy="1968" rx="582.5" ry="587"></ellipse>
+                        <ellipse id="Oval" cx="1963.5" cy="1968" rx="1541.5" ry="1545"></ellipse>
+                        <ellipse id="Oval" cx="1963" cy="1968.5" rx="898" ry="900.5"></ellipse>
+                        <ellipse id="Oval" cx="1963" cy="1968" rx="1963" ry="1968"></ellipse>
+                        <ellipse id="Oval" cx="1963" cy="1968" rx="1075" ry="1086"></ellipse>
+                        <ellipse id="Oval" cx="1963.5" cy="1968.5" rx="1357.5" ry="1370.5"></ellipse>
+                        <ellipse id="Oval" cx="1963" cy="1968.5" rx="1699" ry="1716.5"></ellipse>
+                    </g>
+                </g>
                 <text id="Chronic-Illnesses" opacity="0.678045743" font-family="Helvetica" font-size="12" font-weight="normal" fill-opacity="0.87" fill="#000000">
                     <tspan x="1228.81445" y="521">Chronic Illnesses</tspan>
                 </text>
@@ -408,11 +424,11 @@
                             <mask id="mask-32" fill="white">
                                 <use xlink:href="#path-31"></use>
                             </mask>
-                            <rect stroke="#979797" stroke-width="1" x="9.08394161" y="8.27272727" width="37.0145985" height="37.0454545"></rect>
+                            <use id="Polygon" stroke="#979797" stroke-width="1" xlink:href="#path-31"></use>
+                            <polygon id="Polygon" stroke="#979797" stroke-width="1" mask="url(#mask-32)" points="27.7956204 0 54.3649635 27 27.7956204 54 1.22627737 27"></polygon>
                             <g id="Yellow" opacity="0.596014493" mask="url(#mask-32)" fill-rule="evenodd" fill="#DCCE47">
                                 <rect id="Rectangle" x="0" y="0" width="56" height="54"></rect>
                             </g>
-                            <rect id="Rectangle" stroke="#979797" stroke-width="1" opacity="0.679177989" mask="url(#mask-32)" transform="translate(27.591241, 26.795455) rotate(45.000000) translate(-27.591241, -26.795455) " x="9.08394161" y="8.27272727" width="37.0145985" height="37.0454545"></rect>
                             <text id="D" mask="url(#mask-32)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
                                 <tspan x="14" y="28.1136364">HBT</tspan>
                             </text>
@@ -580,22 +596,6 @@
                         </text>
                         <path d="M64.5,35.5 L152.5,0.5" id="Line-3" stroke="#FF0000" stroke-width="7" stroke-linecap="square"></path>
                         <path id="Line-3-decoration-1" d="M152.5,0.5 L141.355898,1.70374041 L143.573315,7.27895914 L152.5,0.5 Z" stroke="#FF0000" stroke-width="7" stroke-linecap="square"></path>
-                    </g>
-                </g>
-                <g id="RadiusSize" transform="translate(-695.000000, -1266.000000)" stroke-width="1" fill-rule="evenodd" stroke="#979797" opacity="0.244678442">
-                    <g id="Radius-Grids">
-                        <circle id="Oval" fill="#DDEAED" cx="1963.5" cy="1968.5" r="235.5"></circle>
-                        <circle id="Oval" cx="1963" cy="1968" r="308"></circle>
-                        <circle id="Oval" cx="1963" cy="1968" r="673"></circle>
-                        <ellipse id="Oval" cx="1963.5" cy="1968.5" rx="368.5" ry="371.5"></ellipse>
-                        <ellipse id="Oval" cx="1963.5" cy="1968" rx="482.5" ry="486"></ellipse>
-                        <ellipse id="Oval" cx="1963.5" cy="1968" rx="582.5" ry="587"></ellipse>
-                        <ellipse id="Oval" cx="1963.5" cy="1968" rx="1541.5" ry="1545"></ellipse>
-                        <ellipse id="Oval" cx="1963" cy="1968.5" rx="898" ry="900.5"></ellipse>
-                        <ellipse id="Oval" cx="1963" cy="1968" rx="1963" ry="1968"></ellipse>
-                        <ellipse id="Oval" cx="1963" cy="1968" rx="1075" ry="1086"></ellipse>
-                        <ellipse id="Oval" cx="1963.5" cy="1968.5" rx="1357.5" ry="1370.5"></ellipse>
-                        <ellipse id="Oval" cx="1963" cy="1968.5" rx="1699" ry="1716.5"></ellipse>
                     </g>
                 </g>
             </g>
