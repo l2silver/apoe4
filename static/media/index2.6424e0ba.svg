@@ -578,7 +578,7 @@
                                 <use xlink:href="#path-63"></use>
                             </mask>
                             <g id="Oval"></g>
-                            <g id="lightBlue" opacity="0.596014493" mask="url(#mask-64)" fill-rule="evenodd" fill="#5691E5">
+                            <g id="darkBlue" mask="url(#mask-64)" fill-rule="evenodd" fill="#1360CD">
                                 <rect id="Rectangle" x="0" y="0" width="137" height="132"></rect>
                             </g>
                             <mask id="mask-66" fill="white">
@@ -596,7 +596,7 @@
                                 <use xlink:href="#path-67"></use>
                             </mask>
                             <g id="Oval"></g>
-                            <g id="lightBlue" opacity="0.596014493" mask="url(#mask-68)" fill-rule="evenodd" fill="#5691E5">
+                            <g id="darkBlue" mask="url(#mask-68)" fill-rule="evenodd" fill="#1360CD">
                                 <rect id="Rectangle" x="0" y="0" width="112" height="108"></rect>
                             </g>
                             <mask id="mask-70" fill="white">
