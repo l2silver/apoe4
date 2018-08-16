@@ -149,7 +149,7 @@
                             </mask>
                             <use id="Oval" stroke="#979797" stroke-width="1" opacity="0.374094203" xlink:href="#path-11"></use>
                             <text id="D" mask="url(#mask-12)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                <tspan x="11.9931641" y="30.9431818">5mthf</tspan>
+                                <tspan x="6.16894531" y="30.9431818">5MTHF</tspan>
                             </text>
                         </g>
                         <g id="flowchartLine" transform="translate(28.036542, 124.097681) rotate(111.000000) translate(-28.036542, -124.097681) translate(-6.463458, 111.097681)" opacity="0.545063406" stroke="#979797">
@@ -373,7 +373,7 @@
                                 </g>
                                 <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.189764493" mask="url(#mask-38)" cx="22.1715328" cy="21.3371212" rx="21.5145985" ry="21.3371212"></ellipse>
                                 <text id="Default" mask="url(#mask-38)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                    <tspan x="11.9931641" y="22.1628788">Bet</tspan>
+                                    <tspan x="8.88623047" y="22.1628788">BET</tspan>
                                 </text>
                             </g>
                         </g>
@@ -419,7 +419,7 @@
                                 </g>
                                 <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.189764493" mask="url(#mask-42)" cx="22.1715328" cy="21.3371212" rx="21.5145985" ry="21.3371212"></ellipse>
                                 <text id="Default" mask="url(#mask-42)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                    <tspan x="12.7758789" y="22.1628788">Mg</tspan>
+                                    <tspan x="11.2241211" y="22.1628788">MG</tspan>
                                 </text>
                             </g>
                         </g>
@@ -482,7 +482,7 @@
                                 </g>
                                 <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.189764493" mask="url(#mask-52)" cx="40.4014599" cy="39.2007576" rx="39.2043796" ry="39.2007576"></ellipse>
                                 <text id="Default" mask="url(#mask-52)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                    <tspan x="31.2758789" y="40.2992424">Fol</tspan>
+                                    <tspan x="27.3862305" y="40.2992424">FOL</tspan>
                                 </text>
                             </g>
                         </g>
@@ -521,7 +521,7 @@
                             </g>
                             <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.189764493" mask="url(#mask-56)" cx="64.0510949" cy="62.5227273" rx="62.1532847" ry="62.5227273"></ellipse>
                             <text id="Default" mask="url(#mask-56)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                <tspan x="57.2172852" y="63.9772727">Inf</tspan>
+                                <tspan x="53.7241211" y="63.9772727">INF</tspan>
                             </text>
                         </g>
                     </g>
@@ -536,7 +536,7 @@
                             </g>
                             <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.189764493" mask="url(#mask-58)" cx="33.5036496" cy="32.75" rx="32.5109489" ry="32.75"></ellipse>
                             <text id="Default" mask="url(#mask-58)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                <tspan x="16.8828125" y="33.75">ZnCu</tspan>
+                                <tspan x="14.5585938" y="33.75">ZNCU</tspan>
                             </text>
                         </g>
                     </g>
@@ -551,7 +551,7 @@
                             </g>
                             <ellipse id="Oval" stroke="#979797" stroke-width="2" opacity="0.189764493" mask="url(#mask-60)" cx="54.1970803" cy="53.094697" rx="52.5912409" ry="53.094697"></ellipse>
                             <text id="Default" mask="url(#mask-60)" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="32" fill="#FFFFFF">
-                                <tspan x="44.496582" y="54.405303">Dig</tspan>
+                                <tspan x="42.5551758" y="54.405303">DIG</tspan>
                             </text>
                         </g>
                     </g>
