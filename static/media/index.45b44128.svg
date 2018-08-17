@@ -64,7 +64,7 @@
                         <tspan x="38.4897461" y="23">Create</tspan>
                     </text>
                 </g>
-                <text id="Theory" font-family="Helvetica" font-size="16" font-weight="normal" fill-opacity="0.38" fill="#000000">
+                <text id="Effect" font-family="Helvetica" font-size="16" font-weight="normal" fill-opacity="0.38" fill="#000000">
                     <tspan x="53" y="135">Create Trait</tspan>
                 </text>
                 <g id="references" transform="translate(52.000000, 580.000000)" stroke-width="1" fill-rule="evenodd">
@@ -283,7 +283,7 @@
                         <g id="HomocysteineBloodTestRing" transform="translate(580.000000, 525.600000)" stroke-width="3">
                             <circle id="Oval" stroke="#FF6363" cx="21.5" cy="21.5" r="21.5"></circle>
                         </g>
-                        <g id="Level-1-Theory" stroke-width="1" fill-rule="evenodd" transform="translate(740.000000, 347.200000)">
+                        <g id="Level-1-Effect" stroke-width="1" fill-rule="evenodd" transform="translate(740.000000, 347.200000)">
                             <g id="Inflammation" transform="translate(0.000000, 102.400000)">
                                 <circle id="Oval-2" fill="#FBBB7E" cx="50" cy="50" r="50"></circle>
                                 <g id="flowchartText" transform="translate(13.600000, 108.278147)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">

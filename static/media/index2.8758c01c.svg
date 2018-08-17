@@ -42,7 +42,7 @@
     </defs>
     <g id="Cx23-Storyboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Home">
-            <g id="Flow-Chart">
+            <g id="Flow-Chart" transform="translate(-15.000000, 52.000000)">
                 <g id="RadiusSize" transform="translate(-695.000000, -1266.000000)" stroke-width="1" fill-rule="evenodd" opacity="0.124377264" stroke="#979797">
                     <g id="Radius-Grids-2" transform="translate(-36.000000, -33.000000)">
                         <circle id="Oval-2" fill="#ACCBF1" cx="2000" cy="2001" r="250"></circle>
@@ -494,7 +494,7 @@
                         </g>
                     </g>
                 </g>
-                <g id="Level-1-Theory" stroke-width="1" fill-rule="evenodd" transform="translate(924.000000, 434.000000)">
+                <g id="Level-1-Effect" stroke-width="1" fill-rule="evenodd" transform="translate(924.000000, 434.000000)">
                     <g id="Anxiety&amp;Stress" transform="translate(72.000000, 450.000000)">
                         <g id="flowChartCircle">
                             <mask id="mask-54" fill="white">
@@ -641,15 +641,6 @@
                             <path d="M61.5,0.5 L0.5,271.5" id="Line-2" stroke-linecap="square"></path>
                             <polygon id="Triangle" fill="#D8D8D8" transform="translate(26.000000, 156.000000) rotate(-170.000000) translate(-26.000000, -156.000000) " points="26 151 31 161 21 161"></polygon>
                         </g>
-                    </g>
-                </g>
-                <g id="Click-Here" transform="translate(369.000000, 417.000000)" stroke-width="1" fill-rule="evenodd">
-                    <g>
-                        <text font-family="Helvetica" font-size="16" font-weight="normal" fill-opacity="0.87" fill="#000000">
-                            <tspan x="0" y="53">Click Here</tspan>
-                        </text>
-                        <path d="M64.5,35.5 L152.5,0.5" id="Line-3" stroke="#FF0000" stroke-width="7" stroke-linecap="square"></path>
-                        <path id="Line-3-decoration-1" d="M152.5,0.5 L141.355898,1.70374041 L143.573315,7.27895914 L152.5,0.5 Z" stroke="#FF0000" stroke-width="7" stroke-linecap="square"></path>
                     </g>
                 </g>
             </g>

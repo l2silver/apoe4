@@ -360,7 +360,7 @@
                         <g id="HomocysteineBloodTestRing" transform="translate(670.770000, 607.944000)" stroke-width="3">
                             <circle id="Oval" stroke="#FF6363" cx="25" cy="25" r="25"></circle>
                         </g>
-                        <g id="Level-1-Theory" stroke-width="1" fill-rule="evenodd" transform="translate(855.810000, 401.594667)">
+                        <g id="Level-1-Effect" stroke-width="1" fill-rule="evenodd" transform="translate(855.810000, 401.594667)">
                             <g id="Inflammation" transform="translate(0.000000, 118.442667)">
                                 <ellipse id="Oval-2" fill="#FBBB7E" cx="57.825" cy="57.8333333" rx="57.825" ry="57.8333333"></ellipse>
                                 <g id="flowchartText" transform="translate(15.728400, 126.903842)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">

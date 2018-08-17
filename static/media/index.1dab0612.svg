@@ -375,7 +375,7 @@
                         <g id="biomarkerAmountRing" transform="translate(211.596000, 316.512000)" stroke-width="3">
                             <circle id="Oval" stroke="#AEBAFF" cx="18.5" cy="18.5" r="18.5"></circle>
                         </g>
-                        <g id="Level-1-Theory" stroke-width="1" fill-rule="evenodd" transform="translate(932.030000, 437.472000)">
+                        <g id="Level-1-Effect" stroke-width="1" fill-rule="evenodd" transform="translate(932.030000, 437.472000)">
                             <g id="Inflammation" transform="translate(0.000000, 129.024000)">
                                 <ellipse id="Oval-2" fill="#FBBB7E" cx="62.975" cy="63" rx="62.975" ry="63"></ellipse>
                                 <g id="flowchartText" transform="translate(17.129200, 139.188874)" font-size="14" font-family="Helvetica" fill-opacity="0.87" fill="#000000" font-weight="normal">
